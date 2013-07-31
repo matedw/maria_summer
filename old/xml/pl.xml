@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<summerpromo>
+	<config>
+		<subfolder>pl</subfolder>
+	</config>
+	<common>
+		<intro>Lato Marzeń...</intro>
+		<intro>Tego lata wybierz się w 7-tygodniową podróż dookoła świata! 
+Odwiedź krainę wikingów, zajrzyj w głąb dżungli w Peru lub zrelaksuj się na plaży na Fidżi!
+Rzuć okiem na mapę świata poniżej, aby zobaczyć, wśród jakich cudów świata możesz się dziś ukryć!
+
+</intro>
+		<playnow>Graj teraz</playnow>
+		<clickhere>Kliknij tutaj</clickhere>
+		<readmore>Dowiedz się więcej</readmore>
+		<tnc>Zasady</tnc>
+		<cash url="/~subfolder~/leaderboard/~subfolder~">Wygraj 3000 € w GOTÓWCE</cash>
+		<playing>Co tydzień graj w ramach Lata Marzeń</playing>
+		<details>Kliknij samolot, aby dowiedzieć się więcej!</details>
+		<close>Close</close>
+	</common>
+	<week />
+	<week />
+	<week>
+		<country>Skandynawia</country>
+		<text type="title">Zwrot 15% przegranych zakładów w Hall of Gods! $$$</text>
+		<text type="normal">Poczuj gniew bogów! Grając w tym tygodniu w Hall of Gods, otrzymasz zwrot pieniędzy w wysokości 15% przegranych zakładów. Grając za prawdziwe pieniądze w dniach od 24 czerwca do 30, nie tylko masz szansę na wygranie Jackpota o wartości ponad 1,5 mln €, ale otrzymasz także zwrot pieniędzy w wysokości 15% przegranych zakładów!  W tym tygodniu bogowie są naprawdę łaskawi! </text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Czas na Super Bingo Linx!!!  $$$</text>
+		<text type="normal">Nie przegap niedzielnej rozgrywki w Super Bingo Linx, gdzie pula nagród do zgarnięcia to niebotyczne 10 000 €! Gra Super Bingo Linx rozpoczyna się dokładnie o 22.30 (GMT)
+		 w pokoju Mega Jackpot. Bilety kosztują jedyne 0,50 €, więc lepiej zjaw się odpowiednio wcześniej i bądź gotowa na ogromną dawkę emocji!</text>
+		<text type="title">Wydaj 5 € w dowolnej grze bingo, a dostaniesz 5 € zupełnie ZA DARMO do wydania w Dynamite Digger!  $$$</text>
+		<text type="normal">Czy grałaś już w naszą wybuchową mini grę Dynamite Digger? Nie? No to masz szansę! Po prostu pomiędzy 24 czerwca a 30 czerwca wydaj 5 € na dowolną grę bingo, a my automatycznie przelejemy 5 € na Twoje konto w mini grze Dynamite Digger. </text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Wikingowie, mityczni bogowie i 5 darmowych spinów w grze Trolls! $$$</text>
+		<text type="normal">Witamy w Skandynawii! Aby w tym tygodniu wziąć udział w skandynawskim turnieju kasynowym o łącznej puli nagród 1500 €, wystarczy, że pomiędzy piątkiem (24 czerwca) a czwartkiem (30 czerwca) zagrasz w Hall of Gods, Vikings Treasure,Fruit Case i Jackpot 6000. Będziesz miała szansę na pierwszą nagrodę w wysokości 500 €! TO NIE WSZYSTKO! Poza możliwością wygrania pieniędzy w cotygodniowym turnieju, możesz też obstawić co najmniej 10 € w którejkolwiek z powyższych gier ze skandynawskiego turnieju i otrzymać 5 DARMOWYCH spinów na naszym magicznym slocie Trolls!</text>
+		<text type="playnow" url="/~subfolder~/zblizajacesie/turnieje?id=1295" />
+		<text type="title">Zobacz, jak wyglądają skandynawskie białe noce!</text>
+	</week>
+	<week>
+		<country>Holandia </country>
+		<text type="title">Kwitnące lato z comiesięcznymi nagrodami i 5 DARMOWYCH spinów na tajemniczym slocie!  $$$</text>
+		<text type="normal">Grając za 10 € na naszym popularnym slocie Flowers pomiędzy 1 a 7 lipca, nie tylko weźmiesz udział w losowaniu przyjemnej sumki – co miesiąc 50 € przez następne 3 miesiące, otrzymasz też 5 DARMOWYCH spinów do wykorzystania na tajemniczym slocie! Nazwa tajemniczego slotu zostanie ujawniona 8 lipca na naszej stronie, więc zajrzyj do nas 8 lipca, żeby sprawdzić, gdzie możesz wykorzystać swoich 5 DARMOWYCH spinów! Odrobina tajemnicy zawsze dodaje grze smaku! I nie zapominaj! Do wygrania jest 6 niesamowitych nagród w postaci 150 €, więc korzystaj ze słońca i zagraj we Flowers już dzisiaj!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">	Wygrane z wariackich rzędów!  $$$</text>
+		<text type="normal">Wygrane z wariackich rzędów? Tak! Codziennie w pokoju Studio 60, w godzinach od 17.00 do 19.00 (GMT)! Nie musisz kupować pełnego biletu, aby wygrać coś niesamowitego! W każdym rzędzie ukryta jest nagroda pieniężna – procent wszystkich zakładów obstawionych w każdej grze. Już dziś zobacz, jakie nagrody czekają w wariackich rzędach w pokoju Studio 60!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Flowers i Bubbles  $$$</text>
+		<text type="normal">Ocknij się i poczuj zapach kwiatów! Dołącz w tym tygodniu do kolorowego turnieju kasynowego w Holandii z pulą nagród 1500 €. Wystarczy, że pomiędzy piątkiem (1 lipca) a czwartkiem (7 lipca) zagrasz na naszym przepięknym slocie 
+		Flowers i w nasze radosne zdrapki Bubbles, a będziesz miała szansę na zabranie ze sobą jednej z 10 nagród.</text>
+		<text type="playnow" url="/~subfolder~/zblizajacesie/turnieje?id=1297" />
+		<text type="title">Pięknie!</text>
+	</week>
+	<week>
+		<country>Egipt</country>
+		<text type="title">	5 kuponów podarunkowych do spa o wartości 50 € każdy i 5 darmowych spinów! $$$</text>
+		<text type="normal">WYŚWIETLIĆ JAKO DWIE ODDZIELNE PROMOCJE)Wpłać i graj na którymkolwiek z naszych egipskich slotów pełnych skarbów, a nie tylko weźmiesz udział w losowaniu jednego z 5 kuponów podarunkowych do spa o wartości 50 €, ale dostaniesz też 5 darmowych spinów w grze Secret of Horus! Chcesz mieć skórę jak Kleopatra, gdy wyruszysz na plażę tego lata? Oto Twoja szansa, aby wygrać kupon do spa o wartości 50 € i 5 darmowych spinów w grze Secret of Horus.  Do rozdania jest 5 kuponów. Żeby wziąć udział w losowaniu wystarczy, że pomiędzy 8 a 14 lipca wpłacisz minimum 15 € i zagrasz za co najmniej 15 € na którymkolwiek z wymienionych slotów: Cleopatra, Sands of Fortune lub Ramesses Riches. Nie tylko zostaniesz automatycznie uwzględniona w losowaniu nagród w postaci kuponów do relaksującego spa, ale otrzymasz także 5 darmowych spinów w grze Secret of Horus. Wpłać i graj już teraz!</text>
+		<text type="playnow" url="/~subfolder~/wallet/deposit" />
+		<text type="title">Bingo ze sfinksem!  $$$</text>
+		<text type="normal">Nawet starożytni Egipcjanie kochali Bingo! Dołącz do nas w pokoju Mega Jackpot w tym tygodniu i weź udział w grach Bingo Linx! Przez cały najbliższy tydzień codziennie rozdajemy 8000 €, a 8 lipca, w godzinach od 19.00 do 21.00 (GMT),będziemy też rozdawać dodatkowe nagrody o wartości 10 € w grach czatowych! </text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Poczuj smak Egiptu!  $$$</text>
+		<text type="normal">Odwiedź grobowce faraonów, przemierz Saharę na wielbłądzie lub odkryj zbawienną oazę. Witamy w egzotycznym Egipcie! Aby wziąć udział w egipskim turnieju kasynowym z pulą nagród 1500 €, zagraj pomiędzy 8 lipca a 14 lipca w Secret of Horus, The Lost Pyramid i Arabian Nights, a otrzymasz szansę zabrania ze sobą jednej z 10 niesamowitych nagród.</text>
+		<text type="playnow" url="/~subfolder~/zblizajacesie/turnieje?id=1296" />
+		<text type="title">Idź i znajdź ukryte skarby starożytnych!</text>
+	</week>
+	<week>
+		<country>USA – Nowy Jork i Dallas</country>
+		<text type="title">Czołem! Mamy do rozdania do 50 darmowych spinów!  $$$</text>
+		<text type="normal">Idź na balety z dziewczynami w Hot City i odwiedź JR'a, żeby wzbogacić się w Dallas. Grając w tym tygodniu w Hot City lub Dallas masz szansę na otrzymanie do 50 darmowych spinów do wykorzystania na slotach Hot City, Dallas, Frankenstein lub Dead or Alive!
+
+Graj za 15 € – dostaniesz 10 darmowych spinów 
+Graj za 25 € – dostaniesz 25 darmowych spinów
+Graj za 40 € – dostaniesz 50 darmowych spinów 
+ 
+Aby się zakwalifikować, wystarczy, że w dniach od 15 lipca do 21 lipca obstawisz 15 € lub więcej na slotach Hot City lub Dallas. Liczba przyznanych darmowych spinów zależy od obstawionej kwoty. Pamiętaj, że możesz wybrać, na jakim slocie chcesz wykorzystać swoje darmowe spiny: Hot City, Dallas, Frankenstein lub Dead or Alive! Kierunek na Hot City i Dallas!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Szczęśliwego Nowego Jorku!</text>
+		<text type="normal">Zakochaj się w Nowym Jorku – mieście, które nigdy nie śpi! Dołącz do nas w pokoju Mega Jackpot, żeby wziąć udział w quizach o Nowym Jorku i zgarnąć kilka nagród czatowych. Przypomnij sobie wszystko co wiesz o Nowym Jorku i wpadnij do nas!</text>
+		<text type="title">Mafia zwraca pieniądze – 15% przegranych zakładów!  $$$</text>
+		<text type="normal">Chicagowska mafia znów rządzi miastem – grając w tym tygodniu w bingo Mafia Milions, dostaniesz zwrot pieniędzy w wysokości 15% przegranych zakładów! Zagraj w tą odstrzałową mini grę z Jackpotem pomiędzy 15 lipca a 21 lipca, a dostaniesz zwrot 15% przegranych zakładów do 100 €!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Boże błogosław Amerykę!  $$$</text>
+		<text type="normal">W tym tygodniu nasz turniej kasynowy będzie nieco inny. Będziemy podróżować przez stany i korzystać ze wszystkiego, co najlepsze w USA. Zaczniemy na wschodnim wybrzeżu w nowojorskim stylu – w Hot City. Następnie przemierzymy cały kraj aż do Dallas, gdzie sprawdzimy się w naszym slocie prosto z dzikiego zachodu – Dead or Alive. Zakończymy podróż na zachodnim wybrzeżu z szalonym slotem Frankenstein i z niemniej szalonymi zdrapkami Hall of Fame!</text>
+		<text type="playnow" url="/~subfolder~/zblizajacesie/turnieje?id=1298" />
+		<text type="title">Poczujmy smak wolności!</text>
+	</week>
+	<week>
+		<country>Brazylia/Peru</country>
+		<text type="title">Dołącz do naszej przygody w dżungli z darmowymi spinami i zwrotami pieniędzy! $$$</text>
+		<text type="normal">Zwrot 15% przegranych zakładów i możliwość wygrania 15 darmowych spinów w grze Gonzo's Quest! W gorączce malarii rozdajemy w tym tygodniu zwrot pieniędzy w wysokości 15% przegranych zakładów z następujących slotów przygodowych: Amazon Wild, City of Gold lub Fire Hawk. Ale to nie wszystko! Grając w którąkolwiek z tych gier pomiędzy 22 lipca a 28 lipca, zostaniesz zgłoszona do udziału w losowaniu 1 z 50 nagród – 15 darmowych spinów w grze Gonzo's Quest! Już dziś wyrusz na ekspedycję w głąb nieprzebytych dżungli Ameryki Południowej!</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">Karnawałowe darmowe bingo! $$$</text>
+		<text type="normal">W Diamond Daubers w tym tygodniu trwa szalone karnawałowe bingo! Codziennie pomiędzy 12.00 a 13.00 (GMT) organizujemy DARMOWE bingo z potami o wartości 10 €.A wieczorem, od 22.00 do 23.00 (GMT), rusza parada karnawałowa i kolejna  sesja DARMOWEGO bingo z potami o wartości 10 € w grze Gold Mine! </text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Ruszają poszukiwania zaginionego skarbu! $$$</text>
+		<text type="normal">W inkaskim turnieju kasynowym w tym tygodniu chodzi przede wszystkim o odnalezienie skarbu. Aby mieć szansę uszczknąć coś z puli nagród o wartości 1500 €, wystarczy, że już dziś rozpoczniesz swoje poszukiwania skarbu. Pomóż Gonzo w poszukiwaniach Eldorado w grze Gonzo's Quest, znajdź X, który wskazuje miejsce ukrycia skarbu w Treasure Hunt i odkryj żyłę złota w  naszym klasycznym slocie Gold Rush. Pamiętaj: jeśli uzyskasz najlepsze wyniki z 20 kolejnych rund gry za prawdziwe pieniądze, wygrywasz 1. nagrodę!</text>
+		<text type="playnow" url="/~subfolder~/zblizajacesie/turnieje?id=1299" />
+	</week>
+	<week>
+		<country>Fidżi </country>
+		<text type="title">Codziennie do wygrania 10 darmowych spinów na Dragon Island! $$$</text>
+		<text type="normal">Oto niepowtarzalna okazja – możesz wygrać aż do 70 darmowych spinów na nasz nowy slot Dragon Island! Codziennie spośród osób, które danego dnia wpłaciły depozyt w  wysokości minimum 10 € wylosujemy 10 szczęśliwców. Przez najbliższych 7 dni codziennie rozdamy 10 darmowych spinów 10 szczęściarzom! Wystarczy każdego dnia pomiędzy piątkiem (29 lipca, godzina 00.01 GMT) a niedzielą (04 sierpnia, godzina 23.59 GMT)  wpłacić depozyt, a zostaniesz automatycznie uwzględniona w losowaniu i otrzymasz szansę wygrania do 70 darmowych spinów na naszego nowego slota Dragon Island!</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+				<text type="title">Pokój Tiki Beach Party Bingo $$$</text>
+		<text type="normal">Obstaw w tym tygodniu 20 €, a otrzymasz dostęp do pokoju Tiki Beach Party Bingo – darmowe bingo, 2 za 1 i tanie bilety!  Po obstawieniu w bingo  20 € lub więcej automatycznie uzyskasz dostęp do naszego pokoju. Pokój Tiki Beach Party jest otwarty codziennie od piątku (29 lipca) do czwartku (4 sierpnia), w godzinach od 16.00 do 20.00 (GMT),  więc wyjmij swoją spódniczkę z trawy i daj się ponieść hawajskim rytmom!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Raj na ziemi! $$$</text>
+		<text type="normal">Witamy na południowym Pacyfiku – krainie niekończących się piaszczystych plaż i krystalicznie czystej wody... Aby wziąć udział w odbywającym się w tym  tygodniu turnieju kasynowym rejonu Pacyfiku z pulą nagród 1500 €, wystarczy, że zagrasz na naszych slotach z Jackpotem: Tiki Wonders, Fishy Fortune, zakręcisz bębnami na automacie Pacific Attack  i wypróbujesz naszą nową grę – Dragon Island. Grając w te gry pomiędzy piątkiem (29 lipca) a czwartkiem (4 sierpnia), masz szansę zabrać ze sobą jedną z 10 niesamowitych nagród.</text>
+		<text type="playnow" url="/~subfolder~/zblizajacesie/turnieje?id=1300" />
+	</week>
+	<week>
+		<country>Afryka Południowa </country>
+		<text type="title">Koniec lata z Jungle Games! $$$</text>
+		<text type="normal">Grając za co najmniej 10 € w grę Jungle Games w tym tygodniu, masz szansę przez najbliższy miesiąc co tydzień wygrywać gotówkę! Potrzebujesz zafundować sobie resztę lata? Nie martw się!  Jeśli pomiędzy 5 a 11 sierpnia wydasz przynajmniej 10 €, grając na slocie Jungle Games, przez cały miesiąc będziesz automatycznie brać udział w cotygodniowym losowaniu nagrody w wysokości 100 €! </text>
+		<text type="title">5 darmowych spinów w Piggy Riches! $$$</text>
+		<text type="normal">Po wpłaceniu minimum 10 € nie tylko będziesz mogła zagrać za co najmniej 10 € w grę Jungle Games w ramach końca lata z Jungle Games – dostaniesz także 5 darmowych  spinów do wykorzystania w grze Piggy Riches! Wystarczy, że pomiędzy  5 a 11 sierpnia wpłacisz co najmniej 10 €, zagrasz na slocie Jungle Games za minimum 10 €, a otrzymasz także 5 darmowych spinów w Piggy Riches. Chrumkastycznie!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Gold Mine  $$$</text>
+		<text type="normal">Godziny otwarcia: 08:00-01.00 Witamy w lśniącej kopalni Gold Mine, w której gwarantujemy wygrane przez cały dzień, codziennie! Miej oczy otwarte na specjalne promocje: 2 za 1 i gry z ogromnymi pulami Jackpot! Otwarta w godzinach od 8.00 do 1.00, codziennie – dlatego właśnie nie tak trudno trafić na żyłę ZŁOTA w naszej kopalni Gold Mine! </text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">	Lwy, tygrysy i żyrafy! O rany! $$$</text>
+		<text type="normal">W tym tygodniu liczy się tylko afrykańska fauna i flora! Dołącz w tym tygodniu do naszego afrykańskiego turnieju kasynowego. Aby wziąć udział,  wystarczy, że zagrasz na naszym szalonym slocie olimpijskim Jungle Games, klasycznym slocie Safari Madness i spotkasz się z nasza bogatą afrykańską świnką w Piggy Riches! </text>
+		<text type="playnow" url="/~subfolder~/zblizajacesie/turnieje?id=1301" />
+		<text type="title">Już dziś zapuść się na afrykańskie sawanny!</text>
+	</week>
+</summerpromo>

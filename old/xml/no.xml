@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<summerpromo>
+	<config>
+		<subfolder>no</subfolder>
+	</config>
+	<common>
+		<intro>Summer Dreaming…….</intro>
+		<intro>Bli med på en 7 uker lang jordomseiling der vi besøker hjemlige trakter hos Vikingene før vi setter kursen til junglene i Peru og deretter en liten badeferie på Fiji! 
+Ta en titt på vårt verdenskart og se hvilke vidunderlige steder du kan sette kursen til i sommer! Klikk bare på symbolene for å lese mer!</intro>
+		<playnow>Spill nå!</playnow>
+		<clickhere>Klikk her!</clickhere>
+		<readmore>Les mer!</readmore>
+		<tnc>Avtalevilkår:</tnc>
+		<cash url="/~subfolder~/leaderboard/~subfolder~">Vinn 30,000 kroner i kontanter</cash>
+		<playing>Ved å spille hver uke i Summer dreaming!</playing>
+		<details>Klikk på flyet for mer informasjon!</details>
+		<close>Lukk</close>
+	</common>
+	<week />
+	<week />
+	<week>
+		<country>Skandinavia</country>
+		<text type="title">Få 15% igjen på dine eventuelle tap på Hall of Gods! $$$</text>
+		<text type="normal">Få hele 15% igjen av dine eventuelle tap på spill på spillautomaten Hall of Gods denne uken! Spill på Hall of Gods i ekte penger modus mellom den 24. Juni og 30. Juni 2011, og få ikke bare penger igjen hvis du taper, men jag også jackpotten som nå står i over 13,5 MILLIONER kroner! Gudene må være gale denne uken!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Tiden er inne for Super BingoLinx! $$$</text>
+		<text type="normal">Gå ikke glipp av denne søndagens Super Bingo Linx, der du finner en massiv premiepott på hele 80,000 kroner! Super Bingolinx starter ca. kl. 23.30 Norsk tid i Mega Jackpot Room, og brikkene koster kun 4 kroner så dette har du rett og slett ikke råd til å gå glipp av!</text>
+		<text type="title">Spill for min. 50 kroner på hvilket som helst Bingo spill og motta 50 kroner helt kostnadsfritt på minispillet Dynamite Digger! $$$</text>
+		<text type="normal">Har du prøvd deg på det eksplosive minispillet Dynamite Digger enda? Ikke? Vel, her har du nå en gylden sjanse! 
+Utrolig enkelt er det og.. spill bare for minimum 50 kroner på hvilket som helst Bingo spill mellom 24. Juni og 30. Juni, og du vil få 50 kroner kreditert automatisk på minispillet Dynamite Digger!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Vikings, Myteomspunnende Guder og 5 freespins på Trolls! $$$</text>
+		<text type="normal">Velkommen til Skandinavia! 
+For å delta i denne ukens Midsommer turnering i Casino, trenger du kun å spille 20 påfølgende runder på; Hall of Gods, Vikings Treasure, Flowers, Fruit Case og/eller Jackpot 6000 mellom fredag 24. Juni og torsdag 30. Juni og du har sjansen til å kassere førstepremien på hele 5,000 kroner!
+OG, ikke bare har du sjansen til å konkurrere om flotte pengepremier i turneringen, men spiller du for minimum 100 kroner på noen av spillene nevnt, vil du motta ikke mindre enn 5 freespins på den hypernorske spillautomaten Trolls!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1295" />
+		<text type="title">Vis igjen hvem som står ved roret i Skandinavia!</text>
+	</week>
+	<week>
+		<country>Holland</country>
+		<text type="title">Månedlig pengefest og 5 freespins på en mysterieautomat! $$$</text>
+		<text type="normal">Spill for 100 kroner eller mer på den populære spillautomaten Flowers mellom den 1. Juli og den 7. Juli 2011, og du er med i trekningen om hele 500 kroner - hver måned i 3 måneder frem i tid! 
+		Og ikke minst; du vil også motta hele 5 freespins på en mysterieautomat! Hvilken automat dette er vil ikke fortelles før den 8. Juli, så se til at du tar turen innom for å se om du freespins på din spillkonto! Er det ikke deilig med overraskelser??
+Luk i beddene og spill Flowers i dag!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Crazy radgevinster! $$$</text>
+		<text type="normal">Spill våre Crazy radgevinster i Studio 60 hver eneste dag mellom kl 18.00 og 20.00!
+Nå trenger du faktisk ikke å få full brikke for å vinne en kjempegevinst! Hver rad har en pengegevinst som er en prosentdel av den totale innsatssummen i hvert spill på Crazy radgevinster i Studio 60 i dag!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Flowers og Bubbles  $$$</text>
+		<text type="normal">Våkn opp og lukt blomstene! Ta del i ukens fargerike Holland turnering og spill om hele 15,000 kroner i pengepremier! Alt du trenger å gjøre er å spille min. 20 påfølgende runder på vår generøse spillautomat Flowers, og vårt humørspredende skrapelodd Bubbles, mellom fredag den 1. Juli og torsdag den 7 Juli 2011. Du er da med automatisk i racet om hele 10 pengepremier - der førstepremien ligger på hele 5,000 kroner!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1297" />
+		<text type="title">Fantastisk!</text>
+	</week>
+	<week>
+		<country>Egypt</country>
+		<text type="title">5 x 500 kroner & 5 freespins!  $$$</text>
+		<text type="normal">Foreta et innskudd og spill på en eller fler av de Egypt inspirerte spillautomatene; Cleopatra, Sands of Fortune og/eller Ramesses Riches, og du har sjansen til å vinne en av 5 pengegevinser på 500 kroner per, og 5 freespins på spillautomaten Secret of Horus! 
+		Du har altså sjansen til å vinne en av de 5 kontantgevinstene på 500 kroner hver, samt hele 5 freespins på Secret of Horus. Alt du trenger å gjøre er å foreta et innskudd på minimum 150 kroner og spill på en eller fler av de følgende spillautomatene; Cleopatra, Sands of Fortune og/eller Ramesses Riches mellom 8 og 14. Juli. Du er ikke bvare automatisk med i trekningen av 5 x 500 kroner, men du vil også motta 5 freespins Secret of Horus! Foreta ett innskudd og spill nå!</text>
+		<text type="playnow" url="/~subfolder~/wallet/deposit" />
+		<text type="title">Sphinx Bingo!  $$$</text>
+		<text type="normal">Selv de antikke egypterne elsket Bingo! Bli med oss i Mega Jackpot Room for vår Bingo Linx spill denne uken!
+Vi gir ut hele 550.000 daglig hele uken, og den 8. Juli gir vi ut ekstra 100 kr per vunnet chatspill mellom kl 20.00 og 22.00!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Walk like an Egyptian!  $$$</text>
+		<text type="normal">Tiden er inne for å besøke Faraoenes gravkammer, ri kameler gjennom Sahara eller oppdage en himmelsk oase; velkommen til det eksotiske Egypt! For å delta i ukens Egypt turnering, med 15,000 i potten, trenger du kun å spille 20 påfølgende runder på Secret of Horus, The Lost Pyramid og/eller Arabian Nights mellom fredag den 8. Juli og torsdag den 14. Juli, og du har sjansen til å vinne en av 10 flotte pengepremier!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1296" />
+		<text type="title">Spill i dag for din søken etter antikke skatter!</text>
+	</week>
+	<week>
+		<country>USA - New York & Dallas</country>
+		<text type="title">Howdy partner - tjen opp til 50 freespins!  $$$</text>
+		<text type="normal">Bli med jentene i Hot City på byen og besøk JR Ewing i Dallas for å finne olje! Spill på Hot City og/eller Dallas denne uken, og du kan vinne opp til 50 freespins til bruk på Hot City, Dallas, Frankenstein og/eller Dead Alive!
+
+Spill for 150 kr – Motta 10 freespins 
+Spill for 250 kr – Motta 25 freespins
+Spill for 400 kr – Motta 50 freespins 
+ 
+For å kvalifisere deg til disse premiene, må du gjøre følgende; Spill for minimum 150 kr på Hot City og/eller Dallas mellom 15. Juli og 21. Juli, og ut ifra hvilken sum du omsatte for gies det korrekte antall freespins. Husk! Du kan selv bestemme hvilken spillautomat du ønsker dine freespins, av; Hot City, Dallas, Frankenstein eller Dead Alive! Ta turen til Hot City & Dallas idag!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">New York, New York!</text>
+		<text type="normal">Hvor imponerende er ikke metropolen New York? Bli med oss i Mega Jackpot Room for New York quiz og ekstra chatspill gevinster! Børst støvet av New york kunnskapene og møt oss i Mega jackpot Room!</text>
+		<text type="title">Vinn ved å tape - 15% refundering av eventuelle tap!</text>
+		<text type="normal">Chicago Mob'en er i byen - Spill Mafia Millions i Bingo denne uken og få hele 15% igjen hvis du skulle være uheldig og tape! Spill dette populære minispillet mellom 15. Juli og 21. Juli og få 15% igjen på dine tap - opp til 1,000 kroner!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">God Bless America! $$$</text>
+		<text type="normal">Vi har en ukentlig turnering med en liten vri! Vi reiser over hele kontinentet og feirer alt som har med USA å gjøre! Vi starter på Øst kysten og New York med Hot City. Deretter drar vi sørvestover til Dallas og prøver oss på den western inspirerte videoautomaten Dead or Alive, for så å ende opp på vestkysten for litt galskap med Frankenstein og det passende Hall of Fame!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1298" />
+		<text type="title">I was born in the USA!</text>
+	</week>
+	<week>
+		<country>Brazil/Peru</country>
+		<text type="title">Bli med oss på jungelsafari med freespins og tapsrefundering! $$$</text>
+		<text type="normal">Få 15% igjen på eventuelle tap, og sjansen til å vinne 15 freespins på Gonzo’s Quest!
+Jungel feber har fått oss til å gi hele 15% refundering på eventuelle tap under spill på disse spillene; Amazon Wild, City of Gold og/eller Fire Hawk denne uken! 
+I tillegg; spiller du på disse spillene mellom 22. juli og 28. Juli, så er du med i trekningen om 1 av hele 50 x 15 freespins på Gonzo’s Quest! 
+Start din ekpedisjon til junglene i Sør Amerika i dag!</text>
+		<text type="playnow" url="/~subfolder~/automater" />
+		<text type="title">Carnival Gratis Bingo!  $$$</text>
+		<text type="normal">Det er ellevill Carnival Bingo hele denne uken i Diamond Daubers! Hver dag kan du finne GRATIS Bingo med 80 kroners potter mellom kl. 13.00-14.00! Og på kvelden, mellom kl 23.00-00.00, vil vi igjen sparke igang en ny runde med GRATIS Bingo i Gullgruva!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Skattejakten er igang!  $$$</text>
+		<text type="normal">Alt handler om skjulte skatter i ukens Inka turnering! For å ha en sjanse på premiepotten på 15,000 kroner, trenger du kun å legge ut på skattejakt i dag! Hjelp Gonzo å finne Eldorado in Gonzo’s Quest, finn X markerer skatten i Treasure Hunt og finn gull i vår klassiske spillautomat Gold Rush. Husk at hvis du vinner mest på dine beste påfølgende 20 runder, så tar du førsteplassen med hele 5,000 kr i gevinst!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1299" />
+	</week>
+	<week>
+		<country>Fiji</country>
+		<text type="title">Vinn 10 freespins DAGLIG på Dragon Island! $$$</text>
+		<text type="normal">Nå har du sjansen til å vinne opp til 70 freespins på vår splitter nye spillautomat Dragon Island! Hver dag vil vi trekke ut ikke mindre enn 10 spillere som har foretatt ett innskudd på minimum 100 kroner den dagen. Over de kommende 7 dagene, vil vi gi ut 10 freespins til 10 heldige spillere - hver dag! Foreta enkelt ett innskudd hver dag mellom 29. Juli kl. 00.01 og 4. August kl. 23.59, og du er automatisk med i trekningen der du kan totalt ta hjem hele 70 freespins på Dragon Island i løpet av uken!</text>
+		<text type="playnow" url="/~subfolder~/automater" />
+		<text type="title">På med våtdrakta! $$$</text>
+		<text type="normal">Lysten på en dukkert i Stillehavet? Test da ut vår Jackpot minispill Marine Mayhem Mini, der 
+jackpotten for øyeblikket står i hele xxxxxx kroner! Denne jackpotten starter i utgangspunktet på 800,000 hver dag, men ved midnatt øker jackpotten basert på forrige dags innsatser! 
+Få de 5 skattekistene på maks. bet linjer, og putt hele jackpotten på XXXXX i lomma!</text>
+		<text type="title">Tiki Beach Party Bingo</text>
+		<text type="normal">Spill for min. 200 kroner på Bingo denne uken og få tilgang til vårt spesialrom i Bingo; Tiki Beach Party! Gratis Bingo, BOGOF (kjøp 1 få 1 gratis) og billige brikker! Så snart du har satt 200 kroner eller mer på Bingo, vil du få direkte tilgang til Tiki Beach Party rommet. Dette rommet vil være åpent mellom fredag 29. Juli til torsdag 4. August mellom kl 17.00-21.00, så finn frem bastskjørtet for nå skal det danses hula hula!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Velkommen til Paradis! $$$</text>
+		<text type="normal">Velkommen til Sør Stillehavet der du kan finne endeløse sandstrender og krystallklart vann! For å delta i ukens konkurranse med 15,000 kroner i potten, så trenger du kun å spille minimum 20 påfølgende runder på disse spillautomatene; Tiki Wonders, Geisha Wonders, Icy Wonders, Fishy Fortune, Pacific Attack og/eller Dragon Island. Spill på en eller fler av disse spillautomatene mellom fredag den 29. Juli og torsdag 4. August, og du har sjansen på en av 10 flotte pengepremier!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1300" />
+	</week>
+	<week>
+		<country>South Africa</country>
+		<text type="title">Sommeren er snart over - Jungle Games! $$$</text>
+		<text type="normal">Spill for min. 100 kroner på Jungle Games denne uken og du har sjansen til å vinne en bunke kontanter - hver uke i en hel måned! Spill for 100 kr eller mer på Jungle Games mellom den 5 og 11. August og du er med i trekningen om 1,000 kr i kontanter - hver uke i en hel måned!</text>
+		<text type="title">5 GRATIS Piggy Spins! $$$</text>
+		<text type="normal">Hvis du foretar ett innskudd på 100 kr, i tillegg til å spuille for min. 100 kr på Jungle Games 'Sommeren er snart over - Jungle Games' kampanje, vil du motta 5 freespins på Piggy Riches! Sett bare inn 100 kr mellom den 5 og den 11. August, spill for min. 100 kr på Jungle Games og du vil få 5 freespins på Piggy Riches. Grisebra!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Gullgruva!  $$$</text>
+		<text type="normal">Åpningstider: 09:00-02.00
+Velkommen til den alltid glitrende Gullgruva, der vi garanterer gevinster hele dagen - hver dag! Se etter spesielle kampanjetilbud som; Kjøp 1 få 1 gratis og massive jackpottspill! Rommet er åpent alle dager mellom 09.00-02.00! Finn deg en gullklump i Gullgruva i dag!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Løver, Tigre & Giraffer – Wæææ! $$$</text>
+		<text type="normal">Det handler om de store 5 i vår Afrika inspirerte turnering denne uken! For å delta i konkurransen, som har en samlet premiepott på hele 15,000 kroner, spiller du bare på vår artige spillautomat Jungle Games, den klassiske spillautomaten Safari Madness og/eller Piggy Riches!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1301" />
+		<text type="title">Ta turen over den Afrikanske savannen i dag!</text>
+	</week>
+</summerpromo>

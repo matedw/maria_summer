@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Leaderboard table</title>
+<style type="text/css">
+* {
+	margin:0;
+	padding:0;
+}
+
+html,body {
+	width:100%;
+	height:100%;
+	font-family:Verdana,Arial,sans-serif;
+	font-size:12px;
+	color:#333;
+}
+
+div.entry {
+	margin-top:2px;
+	height:18px;
+	border-bottom:#CCC 1px solid;
+}
+
+div.player {
+	float:left;
+	margin-left:10px;
+	width:230px;
+}
+
+div.points {
+	float:left;
+	text-align:right;
+	width:70px;
+}
+</style>
+</head>
+
+<body>
+<script type="text/javascript">
+var players = [
+                ["Hilima2", 565],
+                ["Trojalina", 555],
+                ["bodil1977", 555],
+                ["yvo12", 555],
+                ["karacar", 545],
+				["Naemi", 535],
+				["ECP", 535],
+				["gunnis59", 535],
+				["brandt28", 530],
+				["tryffel", 525],
+				["allas", 520],
+				["mariahel", 520],
+				["biggasson", 515],
+				["soldroppen", 515],
+				["bettan57", 515],
+				["solavarme", 510],
+				["ullwall", 510],
+				["LottaMowitz", 510],
+				["yvonne32", 510],
+				["jettea", 505]
+               ];
+var el, el2;
+for (var i=0; i<players.length; i++) {
+	el = document.createElement("div");
+	el.setAttribute("class", "entry");
+	el.setAttribute("className", "entry");
+	document.body.appendChild(el);
+	
+	el2 = document.createElement("div");
+	el2.setAttribute("class", "player");
+	el2.setAttribute("className", "player");
+	el2.innerHTML = players[i][0];
+	el.appendChild(el2);
+	
+	el2 = document.createElement("div");
+	el2.setAttribute("class", "points");
+	el2.setAttribute("className", "points");
+	el2.innerHTML = players[i][1];
+	el.appendChild(el2);
+	
+	el2 = document.createElement("div");
+	el2.setAttribute("style", "clear:left");
+	el.appendChild(el2);
+}
+</script>
+</body>
+</html>

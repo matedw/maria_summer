@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<summerpromo>
+	<config>
+		<subfolder>fi</subfolder>
+	</config>
+	<common>
+	<intro>Kesäkisa...</intro>
+	<intro>Kierrä maailman ympäri 7 viikossa tänä kesänä! 
+Vieraile viikinkien kotimaassa,patikoi Perun viidakon läpi tai rentoudu rannalla Fijillä! Vilkaise karttaamme alapuolella ja ota selvää mihin maailmankolkkiin voit paeta tänään! </intro>
+        <playnow>Pelaa nyt</playnow>
+        <clickhere>Klikkaa tästä</clickhere>
+        <readmore>Lue lisää</readmore>
+        <tnc>Ehdot ja säännöt</tnc>
+        <cash url="/~subfolder~/leaderboard/~subfolder~">Voita €3000 käteistä</cash>
+		<playing>Pelaamalla kesäkisaamme joka viikko</playing>
+        <details>Klikkaa lentokonetta lukeaksesi lisää!</details>
+        <close>Close</close>
+    </common>
+	<week />
+	<week />
+	<week>
+		<country>Skandinavia</country>
+		<text type="title">15% käteispalautus häviöistäsi - Hall of Godsissa! $$$</text>
+		<text type="normal">Tunne jumalien raivo! Saa 15% käteispalautus häviöistäsi kun pelaat Hall of Godsia tällä viikolla! Pelaa oikealla rahalla 24.Kesäkuuta ja 30.Kesäkuuta välillä ja sinulla ei ainostaan ole mahdollisuus kääriä €1,5 MILJOONAN voittopotti kotiin vaan saat myös 15% takaisin hävityistä rahoistasi! Jumalat ovat oikein anteliaalla tuulella tällä viikolla!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Nyt on Super BingoLinxin aika!!! $$$</text>
+		<text type="normal">Älä anna Super Bingo Linxin ja mahtavan €10 000 voittopotin  mennä ohitsesi tänä Sunnuntaina! Super Bingolinx alkaa 00.30 Mega Jackpot Huoneessa ja bingokupongit maksavat vain €0.50 joten ole paikalla ajoissa! </text>
+		<text type="title">Pelaa €5 missätahansa bingopelissä ja saa €5 ilmaiseksi Dynamite Diggerissä! $$$</text>
+		<text type="normal">Oletko kokeillu räjähtävää minipeliämme Dynamite Diggeriä? Tässä on tilaisuutesi! Sinun tulee vain pelata €5 missätahansa bingopelissä 24.kesäkuuta ja 30.Kesäkuuta välillä ja saat automaattisesti €5 käytettäväksesi minipeliimme - Dynamite Diggeriin! </text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Viikinkejä, Myyttisiä Jumalia sekä 5 Ilmaista kierrosta Trollsissa!$$$</text>
+		<text type="normal">Tervetuloa Skandinaaviaan! Osallistuaksesi tämän viikon €1500 Skandinaavia kasinoturnaukseen,sinun tulee ainoastaan pelata Hall of Godsissa,Viking Treasurissa,Flowersissa,Fruit Casessa sekä Jackpot 6000:ssa Perjantaina 24.Kesäkuuta ja Torstaina 30.Kesäkuuta välillä ja sinulla on mahdollisuus napata €500 ykköspalkinto! Ja sinulla ei ole ainostaan mahdollisuus voittaa turnauksen ykköspalkinto vaan jos pelaat myös vähintään €10 missätahansa yllämainituissa peleissä saat 5 ilmaista kierrosta maagisessa Trolls hedelmäpelissämme. </text>
+		<text type="playnow" url="/~subfolder~/kasino/turnaukset?id?id=1295" />
+		<text type="title">Jahtaa keskiyön aurinkoa Skandinaviassa!</text>
+	</week>
+	<week>
+		<country>Hollanti</country>
+		<text type="title">Kesäinen bonus joka kuukausi (3 kuukauden ajan) ja 5 ilmaista kierrosta Salaisessa hedelmäpelissä!$$$</text>
+		<text type="normal">Pelaa vähintään 10 eurolla suositussa hedelmäpelissämme "Flowersissa" 1.Heinäkuuta ja 7.Heinäkuuta välillä ja et ole vain mukana arvonnassa jossa voit voittaa itsellesi €50 bonuksen joka kuukausi vaan saat myös 5 ILMAISTA kierrosta Salaisessa hedelmäpelissä! Salainen hedelmäpeli julkistetaan sivullamme 8.Heinäkuuta joten pidä huolta että käyt tarkistamassa mihin peliin olet saanut ilmaiset kierroksesi. Eikö pieni salamyhkäisyys olekin jännittävää? Äläkä unohda että kuusi pelaajamme voittaa mahtavat €150 joten älä jahkaile - pelaa Flowersia.  </text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Hullut rivivoitot $$$</text>
+		<text type="normal">Pelaa hulluja rivivoittojamme Studio 60:ssa joka päivä kello 19.00-21.00 välillä! Sinun ei tarvitse saada täyttä bingokuponkia voittaaksesi mahtavia palkintoja. Jokaisella rivillä on palkinto,joka on prosenttiosuus pelissä pelatusta kokonaissummasta. Mene tsekkaamaan hullut rivivoitot Studio 60:ssa Tänään! </text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Kukkia ja kuplia $$$</text>
+		<text type="normal">Herää ja haista kukkien tuoksua! Tule mukaan tämän viikon värikkääseen €1500 Hollanti kasinoturnaukseen. Ollaksesi mukana sinun tulee vain pelata Pirteää Flowers hedelmäpeliämme tai kuplivia raaputusarpojamme Bubblesia Perjantaina 1. Heinäkuuta ja Torstaina 7.Heinäkuuta välillä ja sinulla mahdollisuus viedä yksi kymmenestä palkinnosta mukanasi. .</text>
+		<text type="playnow" url="/~subfolder~/kasino/turnaukset?id?id=1297" />
+		<text type="title">Fantastista kukkienloistoa!</text>
+	</week>
+	<week>
+		<country>Egypti</country>
+		<text type="title">5 x €50 Lahjakortteja kylpylään & 5 Ilmaista kierrosta! $$$</text>
+		<text type="normal">Talleta ja pelaa missä tahansa Egypti-aiheisessa hedelmäpelissä ja et ole vain mukana 5x€50 kylpylä lahjakortin arvonnassa vaan saat myös 5 ilmaista kierrosta Secret of Horus hedelmäpelissämme! Haluatko ihosi olevan yhtä kostea kuin Cleopatran ennen kuin menet rannalle tänä kesänä?! Tässä on sinun mahdollisuutesi voittaa €50 arvoinen kylpylä lahjakortti sekä saada 5 ilmaista kierrosta Secret of Horusissa.Arvomme 5 lahjakorttia ja ollaksesi mukana arvonnassa sinun tulee vain tallettaa vähintään €15 ja pelata vähintään €15 missätahansa allamainitussa kasinopelissä: Cleopatra, Sands of Fortune tai Ramesses Richesissa,8.Heinäkuuta ja 14.Heinäkuuta välillä. Et ole ainoastaan mukana lahjakorttien arvonnassa vaan saat myös 5 ilmaista kierrosta Secret of Horusissa. Talleta ja pelaa nyt!</text>
+		<text type="playnow" url="/~subfolder~/wallet/deposit" />
+		<text type="title">Sphinx Bingo! $$$</text>
+		<text type="normal">Jopa antiikin Egyptiläiset rakastivat bingoa! Liity seuraamme Mega Jackpot Huoneeseemme pelaamaan Linx-pelejä tällä viikolla.Annamme pois yhteensä €8000 päivittäin ensi viikolla ja 8.Heinäkuuta annamme pois €10 extraa chatpeleissä kello 21.00-23.00 välillä!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Kävele kuin Egyptiläinen $$$</text>
+		<text type="normal">Aika vierailla Pharaohs Tombsilla,ratsastaa kamelilla aavikon halki tai kokea keidas,tervetuloa eksoottiseen Egyptiin! Ollaksesi mukana tämän viikon jännittävässä Egypti-teemaisessa kasinoturnauksessa tulee sinun vain pelata Secret of Horus,The Lost Pyramid ja Arabian Nights kasinopelejämme Perjantaina 8.Heinäkuuta ja Torstaina 14.Heinäkuuta välillä ja yksi kymmenestä käteispalkinnosta voi olla sinun! .</text>
+		<text type="playnow" url="/~subfolder~/kasino/turnaukset?id?id=1296" />
+		<text type="title">Mene ja löydä antiikin aarteet!</text>
+	</week>
+	<week>
+		<country>USA - New York & Dallas</country>
+		<text type="title">Howdy - Ansaitse jopa 50 ilmaista kierrosta! $$$</text>
+		<text type="normal">Kopauta korkojasi Hot Cityn tyttöjen kanssa tai vieraile JR:n luona lyödäksesi itsesi rikkauksiin Dallasissa! Pelaa Hot Cityssa tai Dallasissa tällä viikolla ja voit saada jopa 50 ilmaista kierrosta pelattavaksesi joko Hot Cityssa,Dallasissa,Frankensteinissa tai Dead Alivessa! 
+		
+Pelaa €15 – Saat 10 Ilmaista kierrosta 
+Pelaa €25 – Saat 25 Ilmaista kierrosta
+Pelaa €40 – Saat 50 Ilmaista kierrosta
+ 
+Ollaksesi mukana sinun tulee pelata vähintään €15 joko Hot Cityssa tai Dallasissa 15.Heinäkuuta ja 21.Heinäkuuta välillä ja saamasi ilmaisten kierrosten määrä riippuu summasta millä olet pelannut. Muista että voit valita missä hedelmäpelissä haluat käyttää ilmaiset kierroksesi,Hot Cityssa,Dallasissa,Frankensteinissa tai Dead Alivessa! Katse kohti Hot Citya ja Dallasia! </text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">New York New York!</text>
+		<text type="normal">Kuka ei rakastaisi New Yorkin valoja? Liity seuraamme Mega Jackpot Huoneeseen jossa on luvassa extra voittoja chatpeleissä sekä New York aiheisia visoja! Teroita New York tietoasi ja tapaa meidät chatissa! </text>
+		<text type="title">Mafia antaa 15% käteispalautuksia! $$$</text>
+		<text type="normal">Chicagon Mafia on takaisin kaupungissa -Pelaa Mafia Millionsia Bingossa tällä viikolla ja saat 15% takaisin hävityistä rahoistasi!Pelaa tätä räiskyvää minipeliä 15.Heinäkuuta ja 21. Heinäkuuta välillä ja saa 15% takaisin häviöistäsi 100 euroon asti! </text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Hurraa Amerikka!</text>
+		<text type="normal">Tämän viikon kasinoturnauksessa matkustamme ympäri Amerikkaa ja juhlimme sitä kaikkea mikä on hienoa USA:ssa.Aloitamme itärannikolta,New Yorkin tyyliin Hot Citystä,sieltä jatkamme maan halki Dallasiin ja kiepautamme lännen kautta Dead Alivesta länsirannikolle Frankensteinin ja Hall of famen pariin! </text>
+		<text type="playnow" url="/~subfolder~/kasino/turnaukset?id?id=1298" />
+		<text type="title">Katse kohti vapauden mekkaa! </text>
+	</week>
+	<week>
+		<country>Brazil/Peru</country>
+		<text type="title">Liity seuraamme viidakkoseikkailuun ilmaisten kierrosten ja käteispalautusen lomassa! $$$</text>
+		<text type="normal">Saa 15% käteispalautus häviöistäsi ja mahdollisuus voittaa 15 ilmaista kierrosta Gonzo's Questissa! Viidakkokuume on tehnyt meidät hulluksi tällä viikolla ja me tarjoamme 15% käteispalautuksia häviöistäsi allamainituissa peleissä,  Amazon Wild, City of Gold tai Fire Hawk,pelaa ja saa 15% käteispalautus häviöistäsi!  
+Kun pelaat näitä pelejä 22.Heinäkuuta ja 28.Heinäkuuta välillä olet myös mukana arvonnassa jossa arvomme 50x15 ilmaista kierrosta Gonzo's Questissa! Aloita jännittävien etelä-amerikkalaisten viidakkojen tutkiminen tänään! </text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">Ilmainen bingokarnevaali! $$$</text>
+		<text type="normal">Hullut karnevaaliviikot ovat käynnissä tällä viikolla Diamond Daubersissa koko viikon! Meillä on ilmaista bingoa joka päivä €10 voittopoteilla 14.00-15.00 välillä. Illalla karnevaalikulkue jatkuu ja 00.00-02.00 alkaa uusi kierros ilmaista bingoa €10 poteilla kultakaivoksessa! </text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Aarteenmetsästys on käynnissä!  $$$</text>
+		<text type="normal">Kaikki on nyt kiinni aarteiden löytämisestä Inca Kasinoturnauksessamme.Ollaksesi mukana €1500 voittopotin jakamisessa sinun tulee vain aloittaa aarteenmetsästys tänään. Auta Gonzoa löytämään Eldorado Gonzo's Questissa,löydä x-merkkejä Treasure huntissa tai kaiva kultaa Gold Rushissa. Muista että jos sinulla on 20 parasta peräkkäistä kierrosta oikealla rahalla pelatunna on ykkössija sinun.</text>
+		<text type="playnow" url="/~subfolder~/kasino/turnaukset?id?id=1299" />
+	</week>
+	<week>
+		<country>Fiji</country>
+		<text type="title">Voita 10 ilmaista kierrosta päivittäin Dragon Islandissa! $$$</text>
+		<text type="normal">Tässä on sinun tilaisuutesi voittaa jopa 70 ilmaista kierrosta uunituoreessa hedelmäpelissämme Dragon Islandissa!Valitsemme päivittäin satunnaisesti 10 ihimistä,jotka ovat tehneet vähintään €10 talletuksen sinä päivänä. 7 päivän aikana annamme 10 ilmaista kierrosta 10 onnekkaalle ihmiselle joka päivä! Sinun tulee vain tehdä talletus joka päivä Perjataina 29.Heinäkuuta 00.01 ja 31. Heinäkuuta 23.59 GMT välillä ja olet automaattisesti mukana arvonnassa ja 70 ilmaista kierrosta Dragon Islandissa voivat olla sinun.</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">Tiki Rantabileet Bingo $$$</text>
+		<text type="normal">Sinun tulee yksinkertaisesti pelata €20 tällä viikolla ja pääset mukaan Tikin rantabile bingohuoneeseen jossa on Ilmaista bingoa,BOGOF ja halpoja bingokuponkeja! Kun olet pelannut €20 tai enemmän bingossa,saat automaattisesti pääsyn huoneeseen. Tiki Beach Party huone on toiminnassa joka päivä Perjantaina 29.heinäkuuta ja Torstaina 4.Elokuuta välillä kello 18.00-22.00. </text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Nauti paratiisista!  $$$</text>
+		<text type="normal">Tervetuloa Etelä tyynellemerelle,hiekkarantoja loputtomiin sekä kristallinkirkasta vettä..Ollaksesi mukana tämän viikon €1500 turnauksessa sinun tulee vain pelta Jackkopot slot Tiki Wonderissa,Fishy Wondersissa tai pyörähdä kokeilemassa uunituoretta peliämme Dragon Islandia. Pelaa näissä kaikissa peleissä Perjantaina 29.Heinäkuuta ja Torstaina 4.Heinäkuuta välillä ja sinulla on mahdollisuus voittaa yksi upeista käteispalkinnoistamme. .</text>
+		<text type="playnow" url="/~subfolder~/kasino/turnaukset?id?id=1300" />
+	</week>
+	<week>
+		<country>Etelä-Afrikka</country>
+		<text type="title">Kesänviimeiset viidakkopelit!  $$$</text>
+		<text type="normal">Pelaa €10 tai enemmän Jungle Gamesissa tällä viikolla ja sinulla on mahdollisuus voittaa tukullinen rahaa joka viikko kuukauden ajan! Tarvitseko käteistä loppukesää varten? Älä huoli! Pelaa 10 euroa tai enemmän Jungle Gamesissa 5.Elokuuta ja 11.Elokuuta välillä ja olet automaattisesti mukana arvonnassa jossa voit voittaa €100 käteistä joka viikko kuukauden ajan! !</text>
+		<text type="title">5 ilmaista possupyöräytystä!  $$$</text>
+		<text type="normal">Kun talletat vähintään 10€ jungle gamesissa pelaamisen lisäksi saat 5 ilmaista kierrosta Piggy Richesissa! Sinun tulee vain tallettaa vähintään €10 sekä pelata vähintään €10 Jungle Gamesissa 5.Elokuuta ja 11.Elokuuta välillä ja saat 5 ilmaista kierrosta Piggy Richesissä.OinK! 
+		</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Kultakaivos</text>
+		<text type="normal">Aukioloajat: 10:00-03.00
+Tervetuloa säihkyvään kultakaivokseen missä meillä on taattuja voittoja kokopäivän joka päivä! Pidä silmällä erikois kampanjoitamme kuten "osta yksi ja saa yksi kaupanpäälle",sekä valtavia jättipotti-pelejämme! Kultakaivos on auki päivittäin 10.00-03.00 ja täällä ei ole vaikea kaivaa kultaa! </text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Leijonia ja tiikereitä! $$$</text>
+		<text type="normal">Tällä viikolla kaikki pyörii Villin Afrikan ympärillä! Liity seuraamme tällä viikolla Afrikka kasinoturnaukseemme: Osallituaksesi sinun tulee vain pelata Jungle Gamesia,Safari Madnessia tai Piggy Richersiä! Onnea matkaan! </text>
+		<text type="playnow" url="/~subfolder~/kasino/turnaukset?id?id=1301" />
+		<text type="title">Koe Afrikan villeys jo tänään! </text>
+	</week>
+</summerpromo>

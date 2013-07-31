@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<summerpromo>
+	<config>
+		<subfolder>es</subfolder>
+	</config>
+	<common>
+		<intro>Summer Dreaming...</intro>
+		<intro>¡Date una vuelta por todo el mundo en 7 semanas este verano!
+¡Visita la tierra de los vikingos, camina por la jungla de Perú o simplemente relájate en una playa de Fiyi!
+¡Echa un vistazo a continuación a nuestro mapa del mundo y observa las maravillas del mundo a las que puedes escaparte hoy mismo!</intro>
+		<playnow>Jugar ahora</playnow>
+		<clickhere>Haz clic aquí</clickhere>
+		<readmore>Más información</readmore>
+		<tnc>Términos y condiciones</tnc>
+		<cash url="/~subfolder~/leaderboard/~subfolder~">Gana 3000 € en METÁLICO</cash>
+		<playing>Jugando todas las semanas a Summer Dreaming</playing>
+		<details>¡Haz clic en el avión para obtener más información!</details>
+		<close>Close</close>
+	</common>
+	<week/>
+	<week/>
+	<week>
+		<country>Escandinavia</country>
+		<text type="title">¡Te reembolsamos el 15% de tus pérdidas en Hall of Gods! $$$</text>
+		<text type="normal">¡Siente la ira de los dioses! Esta semana te reembolsamos el 15% de tus pérdidas en Hall of Gods. Juega en el modo por dinero real entre el 24 de junio y el 30 de junio y ¡no solo tendrás la oportunidad de llevarte a casa el jackpot, valorado en más de 1,5 millones de libras, sino que también te devolveremos el 15% de tus pérdidas! ¡Los dioses serán verdaderamente generosos esta semana!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">	¡¡¡Es hora de disfrutar de Super BingoLinx!!! $$$</text>
+		<text type="normal">No te pierdas el juego Super Bingo Linx este domingo, ¡con el que podrás ganar un gran premio de 10.000 €! Super Bingolinx comienza puntualmente a las 22:30 GMT en la sala Mega Jackpot y los tickets tan solo cuestan 0,50 €, ¡así que llega a buena hora y prepárate para disfrutar de la acción!</text>
+		<text type="title">¡Juega por valor de 5 € en cualquier juego de bingo y recibirás 5 € GRATIS en Dynamite Digger!  $$$</text>
+		<text type="normal">¿Has probado nuestro explosivo mini juego Dynamite Digger? ¿No? ¡Pues aquí tienes la oportunidad! Lo único que tienes que hacer es gastar 5 € en cualquiera de los juegos de bingo, entre el 24 de junio y el 30 de junio, ¡y te ingresaremos automáticamente 5 € para que los disfrutes en nuestro mini juego Dynamite Digger!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">¡Vikingos, dioses de la mitología y 5 tiradas gratuitas en Trolls!  $$$</text>
+		<text type="normal">¡Bienvenido a Escandinavia!Para participar en el Torneo de casino escandinavo de 1500 € de esta semana, lo único que tienes que hacer es jugar a Hall of Gods, Vikings Treasure, Fruit Case y Jackpot 6000 entre el viernes 24 de junio y el jueves 30 de junio, ¡y tendrás la oportunidad de llevarte el primer premio, valorado en 500 €!Y no solo tendrás la oportunidad de ganar dinero en el torneo semanal, sino que si juegas a cualquiera de los juegos anteriores por un valor superior a 10 € en el Torneo escandinavo, ¡recibirás 5 tiradas GRATUITAS en nuestra tragaperras mágica Trolls!</text>
+		<text type="playnow" url="/~subfolder~/casino/torneos?id=1295" />
+		<text type="title">¡Persigue el sol de medianoche ahora en Escandinavia!</text>
+	</week>
+	<week>
+		<country>Holanda</country>
+		<text type="title">¡Promoción Flower Power de verano y 5 tiradas GRATUITAS en la tragaperras Mystery! $$$</text>
+		<text type="normal">Juega por valor de 10 € o más en nuestra famosa tragaperras Flowers, entre el 1 de junio y el 7 de julio, y no solo entrarás en el sorteo para ganar un montón de dinero, 50 € todos los meses, durante los próximos 3 meses, ¡sino que también recibirás 5 tiradas GRATUITAS en la tragaperras Mystery! La tragaperras Mystery se presentará el 8 de julio en el sitio, ¡así que no olvides visitarlo ese mismo día para ver dónde puedes utilizar tus 5 tiradas GRATUITAS! ¿Te apetece disfrutar del misterio que envuelve a Mystery? De igual forma, no olvides que hay 6 premios increíbles de 150 €, así que no te duermas, ¡juega a Flowers hoy mismo!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">¡Premios de las líneas locas! $$$</text>
+		<text type="normal">¡Juega a nuestros premios de las líneas locas en Studio 60 todos los días entre las 17:00 y las 19:00 GMT! Ahora no te hará falta completar todo el ticket para ganar un premio increíble. Cada línea tiene un premio que equivale a un porcentaje de la cantidad total apostada en cada juego. ¡Echa un vistazo a los premios de las líneas locas de Studio 60 hoy mismo!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Flowers y Bubbles $$$</text>
+		<text type="normal">¡Despierta y huele las flores! Únete al colorido Torneo de casino de Holanda de 1500 € de esta semana, lo único que tienes que hacer es jugar a nuestra espléndida tragaperras Flowers y al alegre rasca y gana Bubbles, entre el viernes 1 de julio y el jueves 7 de julio, y tendrás la oportunidad de llevarte a casa uno de los 10 premios disponibles.</text>
+		<text type="playnow" url="/~subfolder~/casino/torneos?id=1297" />
+		<text type="title">¡Auténtico Flower Power!</text>
+	</week>
+	<week>
+		<country>Egipto</country>
+		<text type="title">¡5 cupones regalo para un circuito de spa valorados en 50 € cada uno y 5 tiradas gratuitas! $$$</text>
+		<text type="normal">Realiza un depósito y juega a cualquiera de nuestras preciadas tragaperras al estilo egipcio y no solo entrarás en el sorteo para ganar uno de los 5 cupones regalo para un circuito de spa valorados en 50 € cada uno, ¡sino que también conseguirás 5 tiradas gratuitas en Secret of Horus!¿Quieres que tu piel esté tan tersa como la de Cleopatra antes de pisar la playa este verano? Aquí tienes la oportunidad de ganar un cupón para un circuito de spa valorado en 50 € y disfrutar de 5 tiradas gratuitas en Secret of Horus. Regalamos 5 cupones y lo único que tienes que hacer para participar es realizar un depósito mínimo de 15 € y jugar por un valor mínimo de 15 € en cualquiera de las siguientes tragaperras; Cleopatra, Sands of Fortune o Ramesses Riches, entre el 8y el 14 de julio. No solo entrarás automáticamenteen el sorteo para ganar un estupendo cupón para un circuito de spa, sino que también recibirás 5 tiradas gratuitas en Secret of Horus. ¡Realiza un depósito y juega ahora!</text>
+		<text type="playnow" url="/~subfolder~/wallet/deposit" />
+		<text type="title">¡Bingo de esfinges! $$$</text>
+		<text type="normal">¡Incluso los antiguos egipcios ya disfrutaban con el Bingo! Únete a nosotros en nuestra sala Mega 	Jackpot y juega a Bingo Linx Juegos de esta semana. ¡Regalamos 8000 € al día durante la próxima semana y el 8 de julio ofreceremos 10 € adicionales en los premios extra del chat, entre las 19:00 y las 21:00 GMT!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">¡Camina como una egipcia! $$$</text>
+		<text type="normal">Ha llegado el momento de visitar las tumbas de los faraones, pasear en camello por el desierto del Sahara o descubrir un oasis,¡bienvenida al exótico Egipto! Para participar en el Torneo de casino egipcio de 1500 € de esta semana, lo único que tienes que hacer es jugar a Secret of Horus, The Lost Pyramid y Arabian Nights entre el viernes 8 de julio y el jueves 14 de julio, y tendrás la oportunidad de llevarte a casa uno de los 10 increíbles premios que tenemos para ti.</text>
+		<text type="playnow" url="/~subfolder~/casino/torneos?id=1296" />
+		<text type="title">¡Atrévete y encuentra los tesoros ocultos de tus antepasados!</text>
+	</week>
+	<week>
+		<country>Estados Unidos: Nueva York y Dallas</country>
+		<text type="title">	¡Hola! ¡Consigue hasta 50 tiradas gratuitas! $$$</text>
+		<text type="normal">¡Disfruta con las chicas en Hot City y visita a JR para hacerte rica de la noche a la mañana en Dallas! ¡Juega a Hot City o Dallas esta semana y podrás conseguir hasta 50 tiradas gratuitas para utilizarlas en Hot City, Dallas, Frankenstein o Dead Alive!
+
+Juega por valor de 15 € y recibe 10 tiradas gratuitas
+Juega por valor de 25 € y recibe 25 tiradas gratuitas
+Juega por valor de 40 € y recibe 50 tiradas gratuitas
+
+Para clasificarte, lo único que tienes que hacer es jugar por valor de 15 € o más en Hot City o Dallas entre el 15 y el 21 de julio, y en función de la cantidad que gastes obtendrás un número de tiradas gratuitas u otro. Recuerda, puedes elegir en qué tragaperras quieres utilizar las tiradas gratuitas, ¡Hot City, Dallas, Frankenstein o Dead Alive! ¡Dirígete a Hot City y Dallas hoy mismo!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">¡New York, New York!</text>
+		<text type="normal">¿A quién no le gustan las luces de la gran ciudad de Nueva York? Únete a nosotros en la sala Mega Jackpot, participa en algunos concursos sobre Nueva York y consigue premios extra del chat. 
+		¡Repasa tus conocimientos sobre Nueva York y únete a nosotros!</text>
+		<text type="title">¡La mafia te devuelve el 15%!</text>
+		<text type="normal">La mafia de Chicago está de nuevo en la cuidad. ¡Juega a Mafia Millions en el bingo esta semana y te devolvemos el 15% de tus pérdidas! ¡Disfruta de este excelente mini juego con jackpot 
+		entre el 15 y el 21 de julio y te devolvemos el 15% de tus pérdidas hasta 100 €! </text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">¡Dios bendiga a América! $$$</text>
+		<text type="normal">Esta semana celebramos un Torneo de casino semanal con giros inesperados. Viajamos por los diferentes estados y celebramos lo mejor de los Estados Unidos de América. Comenzamos en la Costa Este, al estilo de 
+		Nueva York con Hot City, seguimos nuestro camino hasta llegar a Dallas y pasamos por nuestra tragaperras al estilo del Oeste Dead or Alive; acabando en la Costa Oeste con el chiflado Frankenstein y el majestuoso Hall of Fame.</text>
+		<text type="playnow" url="/~subfolder~/casino/torneos?id=1298" />
+		<text type="title">¡De camino hacia el país de la libertad!
+</text>
+	</week>
+	<week>
+		<country>Brasil/Perú</country>
+		<text type="title">¡Únete a nosotros y disfruta de una aventura en la jungla con tiradas gratuitas y reembolsos! $$$</text>
+		<text type="normal">¡Te reembolsaremos el 15% de tus pérdidas y tendrás la oportunidad de ganar 15 tiradas gratuitas en Gonzo’s Quest! La fiebre de la jungla nos ha vuelto locos esta semana y te reembolsamos el 15% de tus pérdidas si juegas a cualquier de las siguientes tragaperras de aventuras durante esta semana: Amazon Wild, City of Gold o Fire Hawk. ¡Te devolvemos el 15% de tus pérdidas!Además, si juegas en cualquiera de estos juegos entre el 22 y el 28 de julio, ¡entrarás en el sorteo para ganar 1 de los 50 premios de 15 tiradas gratuitas en Gonzo’s Quest!¡Comienza a explorar la exótica jungla de Sudamérica hoy mismo!
+</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">	¡Bingo de carnaval gratuito! $$$</text>
+		<text type="normal">Disfruta del alocado Bingo de carnaval durante esta semana en Diamond Daubers, todos los días Bingo GRATUITO con premios de 10 €, entre las 12:00 y las 13:00 GMT. Y por la noche, entre las 22:00 y las 23:00 GMT, ¡el desfile comienza de nuevo con otra ronda de bingo GRATUITO con premios de 10 € en la Mina de oro!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">	¡La búsqueda del tesoro ha comenzado! $$$</text>
+		<text type="normal">En el Torneo de casino inca de esta semana el objetivo es encontrar el tesoro. Para tener la oportunidad de compartir el premio de 1500 €, ¡lo único que tienes que hacer es empezar a buscar el tesoro hoy mismo! Ayuda a Gonzo a encontrar El Dorado en Gonzo’s Quest, descubre la X que marca el lugar donde se encuentra el tesoro en Treasure Hunt y hazte con el oro en nuestra clásica tragaperras, Gold Rush. Recuerda, si consigues las 20 mejores rondas consecutivas en el modo de dinero real, ¡serás la afortunada ganadora!</text>
+		<text type="playnow" url="/~subfolder~/casino/torneos?id=1299" />
+	</week>
+	<week>
+		<country>Fiyi</country>
+		<text type="title">¡Gana 10 tiradas gratuitas diarias en Dragon Island! $$$</text>
+		<text type="normal">¡Aquí tienes la oportunidad de ganar hasta 70 tiradas gratuitas en nuestra nueva tragaperras Dragon Island! Todos los días seleccionaremos aleatoriamente a 10 personas que hayan realizado un depósito mínimo de 10 € durante ese día. ¡En los próximos 7 días, regalaremos 10 tiradas gratuitas diarias a 10 afortunadas jugadoras! Simplemente realiza un depósito todos los días entre el 29 de julio a las 00:01 y el Jueves 04 de agosto a las 23:59 GMT, ¡y entrarás automáticamente en el sorteo. Además, ¡podrás conseguir hasta 70 tiradas gratuitas en nuestra nueva tragaperras Dragon Island!</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">Tiki Beach Party Bingo $$$</text>
+		<text type="normal">¡Simplemente apuesta 20 € esta semana y podrás acceder a nuestra sala Tiki Beach Party Bingo especial con Bingo gratuito, 2x1 y tickets muy baratos! Una vez que hayas apostado 20 € o más en el Bingo, podrás acceder automáticamente. Tiki Beach Party se activará a diario, desde el viernes 29 de julio hasta el jueves 4 de agosto, entre las 16:00 y las 20:00 GMT, ¡así que ponte la falda de paja y baila el hula hula toda la noche!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">	¡Disfruta del paraíso! $$$</text>
+		<text type="normal">Bienvenido al Pacífico Sur, playas de arena interminables y agua cristalina... Para participar en el Torneo de casino del Pacífico de 1500 € de esta semana, lo único que tienes que hacer es jugar a nuestras tragaperras con jackpot Tiki Wonders y Fishy Fortune, caer en espiral en Pacific Attack y jugar a nuestro nuevo juego, Dragon Island. Disfruta de todos estos juegos entre el viernes 29 de julio y el jueves 4 de agosto y tendrás la oportunidad de llevarte a casa uno de los 10 increíbles premios que ponemos a tu disposición.</text>
+		<text type="playnow" url="/~subfolder~/casino/torneos?id=1300" />
+	</week>
+	<week>
+		<country>Sudáfrica</country>
+		<text type="title">¡Final de los Jungle Games de verano! $$$</text>
+		<text type="normal">¡Juega por valor de 10 € o más en Jungle Games esta semana y tendrás la oportunidad de ganar una gran cantidad de dinero cada semana durante un mes! ¿Necesitas 
+		dinero para pasar el resto del verano? No te preocupes, 
+		¡juega por valor de 10 € o más en Jungle Games entre el 5 y el 11 de agosto y entrarás automáticamente en un sorteo para ganar 100 € semanales durante el próximo mes!</text>
+		<text type="title">¡5 tiradas gratuitas regordetas! $$$</text>
+		<text type="normal">Si realizas un depósito mínimo de 10 €, además de jugar por un valor mínimo de 10 € en Jungle Games en nuestra promoción Final de los Jungle Games de verano, 
+		¡recibirás 5 tiradas gratuitas en Piggy Riches! 
+		Simplemente realiza un depósito mínimo de 10 € entre el 5 y el 11 de agosto, juega por un valor mínimo de 10 € en Jungle Games y recibirás 5 tiradas gratuitas en Piggy Riches. 
+		¡Oincástico!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Mina de oro $$$</text>
+		<text type="normal">Horario de apertura: de 08:00 a 01:00Bienvenido a la brillante Mina de oro, ¡donde podrás conseguir premios todos los días, durante todo el día! Echa un vistazo a algunas de las promociones especiales, ¡2x1 y juegos con grandes jackpots! Abierto todos los días desde las 08:00 hasta la 01:00, ¡encontrar ORO en la Mina de oro es muy sencillo!
+</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">	Leones, tigres y jirafas, ¡menuda variedad! $$$</text>
+		<text type="normal">¡Esta semana nos centramos en la fauna y la flora de África! Únete a nuestro Torneo de casino africano de esta semana; para participar, lo único que tienes que hacer es jugar a nuestra 
+		alocada tragaperras inspirada en las Olimpiadas de la naturaleza, Jungle Games, y a la clásica tragaperras Safari Madness, ¡sin olvidarnos de nuestro rico cerdo africano en Piggy Riches!</text>
+		<text type="playnow" url="/~subfolder~/casino/torneos?id=1301" />
+		<text type="title">¡Explora las llanuras africanas hoy mismo!</text>
+	</week>
+</summerpromo>

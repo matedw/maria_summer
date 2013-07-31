@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<summerpromo>
+	<config>
+		<subfolder>sv</subfolder>
+	</config>
+	<common>
+		<intro>En drömsommar...</intro>
+		<intro>Denna sommar får du följa med oss på en sju veckor lång resa runt hela jorden! Gå i vikingarnas fotspår ena veckan, för att veckan därefter kämpa dig längs Inkaleden i Peru. Ta det lugnt på stranden i Fiji och hälsa på oljemagnaten i Dallas!
+Ta en titt på vår världskarta här nedan och klicka på ikonerna för att se vilka av världens under du kommer att få se! 
+</intro>
+		<playnow>Spela nu</playnow>
+		<clickhere>Klicka här</clickhere>
+		<readmore>Läs mer</readmore>
+		<tnc>Regler och villkor</tnc>
+		<cash url="/~subfolder~/leaderboard/~subfolder~">Ta dig en tjuvtitt!</cash>
+		<playing>Vi ger bort 30000 kronor!</playing>
+		<details>Klicka på flygplanet för mer information</details>
+		<close>Stäng</close>
+	</common>
+	<week />
+	<week />
+	<week>
+		<country>Skandinavien</country>
+		<text type="title">Hall of Gods - 15% återbetalning på dina förluster $$$</text>
+		<text type="normal">Få 15 % cashback på dina förluster, när du spelar Hall of Gods denna vecka. Spela för riktiga pengar mellan 24 juni och 30 juni, du har inte bara chans att ta hem jackpotten på över xx miljoner kronor, utan får även 15 % återbetalning om du skulle förlora. Gudarna måste känna sig riktigt generösa denna vecka!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Det är dags för Super BingoLinx!!! $$$</text>
+		<text type="normal">Missa inte denna Super Bingo Linx-spelet den 26 juni, med en stor prispott på hela 100 000 kronor! Super Bingolinx spelas från 23.30 I Mega Jackpot-rummet, och brickorna kostar så lite som 5 kronor. Var beredd på en kväll full av bingoaction!</text>
+		<text type="title">Spela Bingo för 50 kronor, och få 50 kronor att spela Dynamite Digger för! $$$</text>
+		<text type="normal">Har du provat vår explosiva minispel Dynamite Digger? Det är inte för sent, ta din chans nu! Spela bingo för minst 50 kronor mellan den 24 juni och den 30 juni, så får du automatiskt 50 kronor att spela Dynamite Digger för! Helt gratis!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">	Vikings, Mythical Gods and 5 Free Spins on Trolls! $$$</text>
+		<text type="normal">Semester på hemmaplan! Ta del av denna veckas casinoturnering som baserar sig på våra skandinaviska spel. Det enda du behöver göra för din chans att ta del av prispotten på 15 000 kronor är att spela något av spelen Hall of Gods, Vinkings Treasure, Fruit Case och Jackpot 6000 mellan fredagen den 24 juni och torsdagen den 30 juni. Är det du som tar hem förstapriset på 5000 kronor? 
+
+OCH om du spelar för minst 100 kronor på något av spelen som ingår i turneringen så får du även 5 freespins på vår magiska slot Trolls! 
+</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringar?id=1295" />
+		<text type="title">Borta bra men hemma bäst!</text>
+	</week>
+	<week>
+		<country>Holland</country>
+		<text type="title">Månads top-up och fem freespins på hemlig slot! $$$</text>
+		<text type="normal">Spela för minst 100 kronor på vår populära slot Flowers, mellan den 1 juli och den 7 juli, så kan du bli en av de sex spelarna som vinner 500 kronor i månaden under 3 månaders tid, men du får även 5 freespins på en hemlig slot! Vilken slot det handlar om avslöjar vi på hemsidan den 8 juli, så glöm inte bort att se efter! Alla älskar vi väl hemligheter? Spela Flowers idag!
+Today!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Galna radvinster $$$</text>
+		<text type="normal">Spela Studio 60 varje dag mellan 18.00-20.00 och ta del av våra galna radvinster! 
+Nu behöver du inte få en full bricka för att vinna höga priser, du vinner mycket på varje rad i detta spel!  
+</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Flowers och Bubbles $$$</text>
+		<text type="normal">Vakna upp och känn doften av färska blommor! Ta del av denna veckas 15 000 kronors turnering med Holland-tema. Det enda du behöver göra är att spela vår söta slots Flowers eller skraplotten Bubbles mellan fredagen den 1 juli och torsdagen den 7 juli, du kan då bli en av de 10 som delar på prispotten!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringar?id=1297" />
+		<text type="title">En blomstrande vecka!</text>
+	</week>
+	<week>
+		<country>Egypten</country>
+		<text type="title">Presentkort på Guldfynd och 5 freespins! $$$</text>
+		<text type="normal">Gör en insättning och spela någon av våra Egyptiska slottar, så kan du vara en av de fem som vinner varsitt presentkort på Guldfynd, värde 200 kronor! Du får även 5 freespins på Secret of Horus! 
+Det enda du behöver göra för att ta del av utlottningen är att göra en insättning och spela för minst 150 kronor på någon av följande slots: Cleopatra, Sands of Fortune och Ramsess Richess mellan den 8 och den 14 juli. Du deltar då automatiskt i utlottningen av presentkort på guldfynd och kommer även att få 5 freespins på Secret of Horus. Gör en insättning och spela nu! 
+</text>
+		<text type="playnow" url="/~subfolder~/wallet/deposit" />
+		<text type="title">Sphinx Bingo! $$$</text>
+		<text type="normal">Även de gamla egypterna älskade Bingo! Kom in i  Mega Jackpot-rummet för vårt Bingo Linx-spel   denna vecka. Vi ger bort över 80 000 kronor dagligen, och den 8 juli ger vi ut 100 kronor extra i varje chatspel mellan 19.00 och 22.00!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Upplev Egypten! $$$</text>
+		<text type="normal">Besök Faraos tomb, rid på en kamel genom öknen och hitta en oas. Välkommen till exotiska Egypten! Spela veckans casinoturnering, det enda du behöver göra är att spela Secret of Horus, The Lost Pyramid och Arabian Nights mellan fredagen den 8 juli och torsdagen den 14 juli. Den spelare med de 20 bästa efterföljande rundorna vinner 5000 kronor!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringar?id=1296" />
+		<text type="title">Följ med och hitta de historiska skatterna i Egypten!</text>
+	</week>
+	<week>
+		<country>USA - New York och Dallas</country>
+		<text type="title">Få upp till 50 freespins! $$$</text>
+		<text type="normal">Släng på dina höga klackar i Hot City, eller hälsa på JR I Dallas! Spela Hot City eller Dallas denna vecka, och du kan få upp till 50 freespins som du kan använda på Hot City, Dallas, Frankenstein eller Dead or Alive! 
+
+Spela för 150 kronor – 10 Free Spins 
+Spela för 250 kronor – 25 Free Spins
+Spela för 400 kronor – 50 Free Spins 
+ 
+Det enda du behöver göra för att kvalificera dig är att spela för 150 kronor eller mer på Hot City eller Dallas mellan den 15 juli och den 21 juli. Hur många freespins du får beror på hur mycket du har spelat för. Kom ihåg att du själv får välja om du vill använda dina freespins på Hot City, Dallas, Frankenstein eller Dead or Alive. Spela Hot City och Dallas idag! 
+</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">New York New York!</text>
+		<text type="normal">Vem älskar inte pulsen i New York? Kom in I Mega Jackpot-rummet idag för lite New York-frågesport, där du kan vinna extra chatspelsvinster. Plugga på dina New York-kunskaper och träffa oss i chatten!</text>
+		<text type="title">Maffian ger dig 15% återbetalning! $$$</text>
+		<text type="normal">Maffian är tillbaka – Spela Mafia Millions i Bingoklienten denna vecka, och få 15 % återbetalning på dina förluster! Spela detta minispel mellan 15 juli och 21 juli, och få 15 % återbetalning på dina förluster, upp till 1000 kronor!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">God Bless America! $$$</text>
+		<text type="normal">Veckans casinoturnering utspelar sig i det stora landet i väst. Vi reser mellan de olika staterna för att ta del av det mångkulturella landet USA. De slots som gäller för veckans turnering är Dallas, Dead or Alive, Hall of Fame, Hot City och Frankenstein. Frankenstein är inte bara en ny slot, den är även perfekt till veckans turnering då den utspelar sig i den galna staden Los Angeles!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringar?id=1298" />
+		<text type="title">Följ med västerut!</text>
+	</week>
+	<week>
+		<country>Brasilien/Peru</country>
+		<text type="title">Följ med oss på Djungeläventyr! $$$</text>
+		<text type="normal">Få 15% återbetalning på dina förluster, och ha chans att vinna 15 freespins på Gonzo´s Quest! Vi har fått djungelfeber och blivit helt galna denna vecka, och ger dig därför 15 % återbetalning på dina förluster i våra äventyrslottar Amazon Wild, City of Gold och Fire Hawk denna vecka! 
+Spelar du något av dessa spel mellan den 22 juli och den 28 juli så deltar du även i utlottningen av freespins, och kan vara en av de 15 spelare som får 15 freespins på Gonzo´s Quest! 
+</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">Karnivalbingo! $$$</text>
+		<text type="normal">Denna vecka bjuder vi på galen karnivalbingo i Diamond Daubers. Varje vecka har vi gratisbingo med 100 kronor i potten mellan 13.00-14.00. På kvällen kör paraden igång igen med ytterligare gratisbingo mellan 23.00-midnatt, denna gång i Guldgruvan!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Skattjakten har börjat! $$$</text>
+		<text type="normal">Gå på skattjakt i veckans casinoturnering! Det enda du behöver göra för din chans att ta del av prispotten på 15000 kronor är att spela minst 20 rundor I Gonzo´s Quest, Treasure Hunt eller Gold Rush. Den spelare med de 20 bästa efterföljande rundorna tar hem förstapriset på 5000 kronor! </text>
+		<text type="playnow" url="/~subfolder~/casino/turneringar?id=1299" />
+	</week>
+	<week>
+		<country>Fiji</country>
+		<text type="title">Vinn upp till 70 freespins på Dragon Island! $$$</text>
+		<text type="normal">Nu har du din chans att vinna upp till 70 freespins på vår nya slot Dragon Island! Varje dag kommer vi att slumpmässigt dra 10 spelare som har gjort en insättning på 100 kronor eller mer. De kommande 7 dagarna kommer vi alltså att ge bort 10 freespins till 10 lyckliga spelare! Det enda du behöver göra för att vara med i utlottningen är att göra en insättning på minst 100 kronor mellan fredagen den 29 juli och torsdagen den 4 augusti!</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">Tiki Strandfest-Bingo $$$</text>
+		<text type="normal">Spela bingo för minst 200 kronor under veckan, och få tillgång till vårt Tiki Beach Party-rum, med gratisbingo, en på köptet och billiga biljetter! Tiki Beach Party kommer spelas dagligen mellan fredagen den 29 juli till torsdagen den 4 augusti, mellan 17.00-21.00, så fram med hawaiiskjortan och börja träna på Hula-Hula dansen redan nu!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Njut av paradiset! $$$</text>
+		<text type="normal">Välkommen till stilla havet! Här hittar du långa sandstränder och kristallklart vatten.. Ta del av veckans casinoturnering med 15 000 kronor i potten. Det enda du behöver göra är att spela vår jackpotslots Tiki Wonders, Fishy Fortune, Pacific Attack eller vårt nya spel Dragon Island. Spela minst 20 rundor på något av dessa spel för din chans att vara en av de 10 spelare som delar på prispotten!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringar?id=1300" />
+	</week>
+	<week>
+		<country>Sydafrika</country>
+		<text type="title">Jungle Games – slutet på sommaren! $$$</text>
+		<text type="normal">Spela Jungle Games för minst 100 kronor denna vecka, så kan du vinna 1000 kronor I veckan under en hel månad! Perfekt om semesterkassan börjar sina! Spela bara Jungle Games för minst 100 kronor melan den 5 och den 11 augusti för din chans att vara med i utlottningen!</text>
+		<text type="title">5 freespins på Piggy Riches $$$</text>
+		<text type="normal">Gör en insättning på minst 100 kronor och spela minst 100 kronor på Jungle Games, så får du även 5 freespins på Piggy Riches! Erbjudandet gäller mellan den 5 augusti och den 11 augusti!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Guldgruvan $$$</text>
+		<text type="normal">
+Välkommen till den skinande Guldgruvan, där vi har garanterade vinster hela dagen, varje dag! Håll utkik efter våra speciella erbjudanden så som; köp 1 få 1 gratis och våra höga jackpottar! Guldgruvan är öppen varje dag mellan 09.00 och 02.00!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Lejon, Tigrar och Giraffer! $$$</text>
+		<text type="normal">Veckans casinoturnering handlar om livet på savannen! Det enda du behöver göra för att ta del av turneringen är att spela vår tokiga olympiska vildlivs-slot Jungle Games, Safari Madness eller Piggy Riches under veckan. Den spelare med de 20 bästa efterföljande rundorna tar hem 5000 kronor!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringar?id=1301" />
+		<text type="title">Ta dig en tur på savannen!</text>
+	</week>
+</summerpromo>

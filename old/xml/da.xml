@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<summerpromo>
+	<config>
+		<subfolder>da</subfolder>
+	</config>
+	<common>
+		<intro>Drømme Sommer</intro>
+		<intro>Rejs omkring i verden i 7 uger denne sommer! 
+Besøg de skandinaviske lande, udforsk junglen i Peru eller tag en slapper på standen i Fiji!
+På verdenskortet herunder kan du se, hvor du kan rejse hen i dag.</intro>
+		<playnow>Spil Nu</playnow>
+		<clickhere>Klik her</clickhere>
+		<readmore>Læs mere</readmore>
+		<tnc>Regler & vilkår</tnc>
+		<cash url="/~subfolder~/leaderboard/dk">Vind 30.000 kr. i kontanter</cash>
+		<playing>Ved at spille med i Drømme Sommer hver uge</playing>
+		<details>Klik på flyet for mere info!</details>
+		<close>Luk</close>
+	</common>
+	<week />
+	<week />
+	<week>
+		<country>Skandinavien</country>
+		<text type="title">15% tilbagebetaling på Hall of Gods $$$</text>
+		<text type="normal">Guderne er ekstra venlige denne uge. De giver nemlig 15% tilbage på alle dine tab på video slotten, Hall of Gods, denne uge. Spil for alvor mellem d. 24. og 30. juni, så har du ikke bare muligheden for at vinde den enorme jackpot, men du får også 15% tilbagebetaling på alle dine tab! Tilbagebetalingen vil blive indsat d. 2. juli senest kl. 18 CET. </text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Super BingoLinx Bingo! $$$</text>
+		<text type="normal">Gå ikke glip af denne måneds Super Bingo Linx spil med en præmiepulje på hele 80.000 kr. og plader til kun 4 kr.! BingoLinx starter på slaget 23.30 CET i Kæmpe Jackpot rummet og spilles kun én gang, så det er med at være på dupperne. </text>
+		<text type="title">Spil for 50 kr. på Bingo og få 50 kr. GRATIS til Dynamite Digger! $$$</text>
+		<text type="normal">Har du prøvet vores mini spil, Dynamite Digger? Nej? Jamen, nu giver vi dig chancen!  
+Du skal bare spille for 50 kr. på et hvilket som helst bingospil mellem d. 24. og 30. juni, så giver vi dig automatisk 50 kr. at spille for på Dynamite Digger!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Vikinger, Mystiske Guder og 5 gratis runder på Trolls! $$$</text>
+		<text type="normal">Velkommen til Skandinavien! 
+For at deltage i denne uges 15.000 kr. Scandinavian Casino Turnering, skal du blot spille på Hall of Gods, Viking Treasure, Flowers, Fruit Case og/eller Jackpot 6000 mellem fredag d. 24. juni og torsdag d. 30. juni. 
+Du har ikke kun muligheden for at vinde turneringen og hovedgevinsten på 5000 kr., men også 5 GRATIS runder på vores magiske slot, Trolls. Du skal bare spille for mindst 100 kr. på et af spillene i Scandinavian Casino Turnering, så giver vi dig 5 gratis runder på Trolls! 
+Gratis runderne gives d. 1. juli senest kl. 16 CET.
+</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1295" />
+		<text type="title">Se Nordlyset danse i Skandinavien!</text>
+	</week>
+	<week>
+		<country>Holland</country>
+		<text type="title">Blomstrende sommergevinster & 5 gratis runder på Top Hemmelig Slot $$$</text>
+		<text type="normal">Spil for mindst 100 kr. på vores populære slot, Flowers, mellem d. 1. – 7. juli, så har du ikke bare chancen for at vinde en masse penge – 500 kr. hver måned, i 3 måneder – men vi giver dig også 5 GRATIS runder til en Top Hemmelig Slot. Vinderne og den Top Hemmelige Slot vil blive afsløret på siden d. 8. juli, så husk at kigge forbi, så du ved hvor, du kan bruge dine gratis runder!
+Glem ikke at 6 heldige spillere vinder 1500 kr. – som gives over 3 måneder, så spil Flowers nu!
+</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Høje rækkegevinster i Bingo! $$$</text>
+		<text type="normal">Spil med og vind vores høje rækkegevinster i Studio 60, hver dag kl. 18-20 CET! 
+Nu behøver du ikke have fuld plade for at vinde en fantastisk gevinst. Hver række giver dig i dette spil en god rækkegevinst. Vi har pillet lidt ved spillets opsætning, så en større del af præmiepuljen går til enkelte rækker. Få fat i din rækkegevinst i Studio 60 i dag!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Flowers og Bubbles $$$</text>
+		<text type="normal">Deltag i denne uges 15.000 kr. Holland Casino Turnering, ved blot at spille vores blomstrende slot, Flowers eller boblende skrabelod, Bubbles, mellem d. 1. – 7. juli. Så har du chancen for at vinde hovedgevinsten på 5000 kr. eller en af de mange andre mindre gevinster.</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1297" />
+		<text type="title">Blomstrende godt!</text>
+	</week>
+	<week>
+		<country>Egypten</country>
+		<text type="title">5 x 500 kr. og 5 gratis runder $$$</text>
+		<text type="normal">Har du brug for lidt forkælelse? Vi giver 5 heldige spillere 500 kr., som kan bruges på lige præcis det, der gør dig mest glad! Ikke nok med det, så får alle, der deltager i denne konkurrence helt automatisk 5 gratis runder til vores mystiske slot, Secret of Horus!
+Du deltager i konkurrencen, når du indsætter 150 kr. og spiller for mindst 150 kr. på Cleopatra, Sands og Fortune eller Ramesses Riches mellem d. 8. – 14. juli. Husk – der er ikke kun 5 x 500 kr. på højkant. Nej, alle der deltager får såmænd 5 gratis runder til Secret of Horus! Indsæt penge og deltag i konkurrencen nu! 
+Vinderne af konkurrencen findes d. 15. juli senest kl. 18 CET. Gratis runder vil blive tildelt d. 15. juli senest kl. 16 CET.
+</text>
+		<text type="playnow" url="/~subfolder~/wallet/deposit" />
+		<text type="title">Sphinx Bingo! $$$</text>
+		<text type="normal">Selv de gamle egyptere elskede Bingo! Kom og spil med i Bingo Linx spillet i vores Kæmpe Jackpot rum denne uge. Vi giver 64.000 kr. væk i løbet af denne uge og d. 8. juli sørger vi for, at der er lidt ekstra i chat gevinster mellem kl. 20-22 CET!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Udforsk Egypten! $$$</text>
+		<text type="normal">Det er tid til at besøge faraoens grav, ride over Saharas ørken på en kamel eller finde en oase. Hvordan? Jo, det er helt enkelt. Spil på Secret of Horus, The Lost Pyramid og Arabian Nights og oplev en helt ny verden. Når du spiller på disse spil denne uge fra d. 8. – 14. juli, deltager du i vores 15.000 kr. Egyptian Casino Turnering. Er du rigtig heldig, kan du vinde første præmien på hele 5000 kr., så du kan opleve det rigtige Egypten!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1296" />
+		<text type="title">Find de skjulte (spille)skatte nu!</text>
+	</week>
+	<week>
+		<country>USA - New York & Dallas</country>
+		<text type="title">Howdy – tjen op til 50 gratis runder! $$$</text>
+		<text type="normal">Mal byen rød med tøserne fra Hot City eller besøg J.R. i Dallas! Når du spiller på Hot City eller Dallas denne uge, kan du tjene op til 50 gratis runder, der kan bruges på Hot City, Dallas, Frankenstein eller Dead or Alive!
+
+Spil for 150 kr. – og få 10 gratis runder
+Spil for 250 kr. – og få 25 gratis runder
+Spil for 400 kr. – og få 50 gratis runder
+ 
+Du tjener dine gratis runder ved at spille for mindst 150 kr. på Hot City eller Dallas mellem d. 15. og 21. juli. Alt efter hvor meget du spiller for, tjener du 10, 25 eller 50 gratis runder. Du bestemmer helt selv hvilken slot, du vil bruge dine gratis runder på; Hot City, Dallas, Frankenstein eller Dead or Aive! Smut forbi Hot City eller Dallas i dag og tjen dine grats runder! 
+Gratis runderne tildeles d. 22.juli senest kl. 16 CET.
+</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Mafiaen giver dig 15% tilbagebetaling! $$$</text>
+		<text type="normal">Chicagos mafia er tilbage! Spil Mafia Millions i Bingo klienten denne uge, så giver vi dig 15% tilbagebetaling på dine tab. Alle der spiller fra d. 15. – 21. juli, får 15% tilbagebetaling på tab op til 1000 kr. Hvem sagde det at tabe var kedeligt? 
+Tilbagebetalingen vil blive sat ind på din konto d. 22. juli senest kl. 18 CET.
+</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Gud bevare Amerika $$$</text>
+		<text type="normal">Oplev det bedste af det bedste fra USA i vores American Casino Turnering! Vi starter på østkysten, New York med Hot City, og drager over statsgrænserne til Dallas og tager en galop på vores Western slot Dead or Alive, før vi ender op på vestkysten til en omgang Frankenstein og Hall of Fame! Velkommen til denne uges Casino Turnering med intet mindre end 15.000 kr. på højkant!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1298" />
+		<text type="title">Velkommen til landet med uendelige muligheder!</text>
+	</week>
+	<week>
+		<country>Brasilien/Peru</country>
+		<text type="title">Jungle eventyr med gratis runder og tilbagebetaling! $$$</text>
+		<text type="normal">Jungle-feberen raser og gør os ekstra gavmilde. Denne uge giver vi dig ikke kun 15% tilbagebetaling på tab, når du spiller Amazon Wild, City of Gold eller Fire Hawk. Vi giver dig også muligheden for at vinde 50 x 15 gratis runder på Gonzo’s Quest!  Du deltager i konkurrencen om gratis runder, når du spiller for minimum 100 kr. på Amazon Wild, City of Gold eller Fire Hawk d. 22. – 28. juli. 
+Tilbagebetalingen vil blive sat ind på din konto d. 29. juli senest kl. 18 CET. Vinderne får gratis runder til Gonzo’s Quest d. 29. juli senest kl. 16 CET. 
+Udforsk Sydamerikas jungle i dag og kom tættere på gevinsterne. </text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">Gratis Karneval Bingo! $$$</text>
+		<text type="normal">Vi har et vildt Karneval Bingo hele denne uge i Diamond Daubers. Vi sørger for, at der er GRATIS BINGO fra kl. 13 – 14 CET med 80 kr. i puljen. Om aftenen danser vi endnu en gang samba, men denne gang i Guldminen, hvor der er GRATIS BINGO fra kl. 23 – 24 CET med 80 kr. i puljen!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Jagten på skatten! $$$</text>
+		<text type="normal">Denne uge handler det om, at finde den skjulte skat i vores Inca Casino Turnering! Den store skat bugner med 15.000 kr., som du kan vinde ved at spille minimum 20 runder på Gonzo’s Quest, Treasure Hunt eller Gold Rush. De 10 bedste spillere vinder hver deres del af skatten!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1299" />
+	</week>
+	<week>
+		<country>Fiji</country>
+		<text type="title">Vind 10 gratis runder hver dag på Dragon Island! $$$</text>
+		<text type="normal">Du har nu chancen for at vinde 70 gratis runder på vores nye slot, Dragon Island! Vi vælger hver dag 10 heldige spillere, som hver får 10 gratis runder på Dragon Island. Vi trækker hver dag lod blandt alle, der har indsat minimum 100 kr. samme dag. Så hvis du indsætter 100 kr. hver dag mellem fredag d. 29. juli og torsdag d. 31. juli, kan du vinde op til hele 70 gratis runder på Dragon Island! 
+Alle gratis runder gives til vindere fra de 7 dage d.8. august senest kl. 16 CET.
+</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">Tiki Beach Party Bingo $$$</text>
+		<text type="normal">Vi holder stor Tiki Beach Party med GRATIS BINGO, Dobbelt Op og billige plader. Du får din invitation, når du spiller for mindst 200 kr. på bingo denne uge. Tiki Beach Party spilles dagligt fra fredag d. 29. juli til torsdag d. 4. august kl. 17 – 21 CET. Du får automatisk adgang til festen, når du har spillet for minimum 200 kr. på bingo. Find bastskørtet frem og kom og fest med os!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Velkommen til Paradis! $$$</text>
+		<text type="normal">Nyd de uendelige hvide sandstrande og det krystalklare vand i denne uges Pacific Casino Turnering. Du deltager i konkurrencen om den 15.000 kr. store pulje, ved at spille minimum 20 runder på Tiki Wonders, Fishy Fortune, Pacific Attack eller Dragon Island. Spil med mellem fredag d. 29. juli og torsdag d. 4. august, for chancen for at vinde en af de 10 præmier.</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1300" />
+	</week>
+	<week>
+		<country>Sydafrika</country>
+		<text type="title">Vind 1000 kr. hver uge i 1 måned $$$</text>
+		<text type="normal">Har du brugt alle dine penge på is og kolde drinks? Fortvivl ikke – vi kommer til din undsætning med 1000 kr. hver uge i 1 måned. Du kan vinde denne fantastiske gevinst, bare ved at spille for minimum 100 kr. på slotten, Jungle Games d. 5. – 11. august! Puh – så er underholdning reddet! 
+Vinderen findes d. 12. august senest kl. 18 CET.
+</text>
+		<text type="title">5 gratis runder på Piggy Riches $$$</text>
+		<text type="normal">Vi giver dig 5 gratis runder på Piggy Riches, når du indsætter minimum 100 kr. og spiller for mindst 100 kr. på Jungle Games d. 5. – 11. august. Glem ikke at du samtidig også deltager i konkurrencen om 1000 kr. hver uge i 1 måned – hvor let kan det være? 
+Gratis runderne gives d. 12. august senest kl. 16 CET.
+</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Guldminen</text>
+		<text type="normal">Åbningstider: 09.00 – 02.00
+Velkommen til den funklende Guldmine, hvor du kan vinde garanterede præmier hele dagen, hver dag! Hold øje med specielle tilbud som, Dobbelt Op og store jackpotspil. Rummet er åbent hver dag kl. 9 – 2, så du kan lede efter guldet, lige når det passer dig!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Hold fast på Safarihatten! $$$</text>
+		<text type="normal">Tiger, løver og giraffer – denne uge handler det om den vilde afrikanske jungle i vores African Casino Turnering. Du deltager helt automatisk, når du spiller mindst 20 runder på vores skøre slot, Jungle Games, den klassiske slot, Safari Madness, og ikke at forglemme vores rige afrikanske grise i Piggy Riches!</text>
+		<text type="playnow" url="/~subfolder~/casino/turneringer?id=1301" />
+		<text type="title">Udforsk den afrikanske jungle i dag!</text>
+	</week>
+</summerpromo>

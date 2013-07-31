@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<summerpromo>
+	<config>
+		<subfolder>nl</subfolder>
+	</config>
+	<common>
+		<intro>Summer Dreaming...</intro>
+		<intro>Trek deze zomer in 7 weken de wereld rond! 
+Bezoek het land van de Vikings, trek door de jungle van Peru of ontspan op een strand in Fiji!
+Neem eens een kijkje op de wereldkaart hieronder om te zien welke wereldwonderen je vandaag kunt bezoeken!
+</intro>
+		<playnow>Spelen</playnow>
+		<clickhere>Klik hier</clickhere>
+		<readmore>Verder lezen</readmore>
+		<tnc>Algemene voorwaarden</tnc>
+		<cash url="/~subfolder~/leaderboard/~subfolder~">Win €3000 CASH</cash>
+		<playing>Speel elke week in Summer Dreaming</playing>
+		<details>Klik hier</details>
+		<close>Sluit</close>
+	</common>
+	<week />
+	<week />
+	<week>
+		<country>Scandinavië</country>
+		<text type="title">	15% Cash back op je verliezen - Hall of Gods!  $$$</text>
+		<text type="normal">Voel de macht van de goden! Deze week 15% cash back op je verliezen bij het spelen van Hall of Gods. Speel voor echt geld tussen 24 en 30 juni. Je maakt dan niet alleen kans op de jackpot van meer dan €1,5 miljoen, je krijgt ook 15% cash back op je eventuele verliezen!  De goden zijn deze week in een gulle bui!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Het is tijd voor Super BingoLinx!!! $$$</text>
+		<text type="normal">Het Super BingoLinx-spel van deze zondag mag je niet missen. Er ligt een prijzenpot van €10.000 voor het oprapen! Super Bingolinx begint stipt om 23.30  in de Mega Jackpot kamer en loten kosten maar €0,50.  Zorg dus dat je er vroeg bij bent</text>
+		<text type="title">Speel voor €5 op een van onze Bingo-spellen en je ontvangt €5 GRATIS voor Dynamite Digger! $$$</text>
+		<text type="normal">Heb jij onze explosieve mini game Dynamite Digger al geprobeerd? Nee? Dit is je kans! 
+Geef simpelweg €5 uit op een van onze Bingo-spellen tussen 24 en 30 juni, en je ontvangt automatisch €5 voor onze mini game - Dynamite Digger!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Vikings, mythische goden en 5 gratis spins op Trolls! $$$</text>
+		<text type="normal">Welkom in Scandinavië! 
+Om deel te nemen aan het €1500 Scandinavian Casino-toernooi van deze week, speel je tussen vrijdag 24 juni en donderdag 30 juni op Hall of Gods, Vikings Treasure, Fruit Case of Jackpot 6000. Je maakt dan kans op de hoofdprijs van €500! 
+EN, je maakt in het toernooi van deze week niet alleen kans op geld; als je meer uitgeeft dan €10 (echt geld) op de bovenstaande spellen in het Scandinavian-toernooi, ontvang je ook 5 GRATIS spins op onze magische slot, Trolls!</text>
+		<text type="playnow" url="/~subfolder~/casino/toernooien?id=1295" />
+		<text type="title">Volg nu de midzomerzon in Scandinavië!</text>
+	</week>
+	<week>
+		<country>Nederland</country>
+		<text type="title">Fleurige, zomerse, maandelijkse Top-Up en 5 GRATIS spins op een mystery-slot! $$$</text>
+		<text type="normal">Speel voor €10 of meer op onze populaire slot Flowers, tussen 1 en 7 juli, en je doet niet alleen mee met een trekking voor een stapel geld – maar liefst €50 per maand, 3 maanden lang,  je ontvangt ook 5 GRATIS rondes op een mystery-slot! De mystery-slot wordt op de site onthuld op 8 juli, dus vergeet die dag niet de site te bezoeken, om te zien waar je je 5 GRATIS spins kunt gebruiken! Ben jij ook zo gek op mysteries?! 
+En vergeet niet dat je kans maakt op 6 ongelofelijke prijzen van €150. Dus bloei niet uit, speel Flowers vandaag nog!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Crazy Row Winnings! $$$</text>
+		<text type="normal">Speel elke dag tussen 18.00-20.00 crazy row winnings in Studio 60! Je hoeft niet je hele kaart te vullen om geweldige prijzen te winnen. Elke rij levert een prijs op. De prijs is een percentage van het totaalbedrag dat is ingezet op elk spel. Kom vandaag kijken bij Crazy Row winnings in Studio 60!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Bloemen en bubbels $$$</text>
+		<text type="normal">Word wakker met de geur van bloemen! Doe deze week mee aan het kleurrijke €1500 Holland Casino-toernooi. Speel tussen 1 en 7 juli op onze schitterende slot Flowers en het vrolijke kraslot Bubbles, en je maakt kans op een van de 10 prijzen.</text>
+		<text type="playnow" url="/~subfolder~/casino/toernooien?id=1297" />
+		<text type="title">Zet de bloemen buiten!</text>
+	</week>
+	<week>
+		<country>Egypte</country>
+		<text type="title">5 x €50 Beautycentrum-cadeaubonnen en 5 gratis spins!  $$$</text>
+		<text type="normal">Stort en speel één van onze Egyptische slots, en je maakt niet alleen kans op 5 x €50 Beautycentrum-cadeaubonnen,  je ontvangt ook 5 gratis spins op Secret of Horus! 
+Wil jij deze zomer zo beeldschoon zijn als cleopatra?! Dan is dit jouw kans om een cadeaubon ter waarde van €50 voor een beautycentrum te winnen en te profiteren van 5 gratis spins op Secret of Horus.  We geven 5 cadeaubonnen weg, en om er een te winnen moet je tussen 8 en 14 juli minimaal €15 storten en €15 inzetten op een van de volgende slots: Cleopatra, Sands of Fortune of Ramesses Riches. Niet alleen doe je automatisch mee aan de loterij voor die felbegeerde cadeaubonnen, je ontvangt ook 5 gratis spins op Secret of Horus. Stort en speel nu!</text>
+		<text type="playnow" url="/~subfolder~/wallet/deposit" />
+		<text type="title">Sfinx Bingo! $$$</text>
+		<text type="normal">Zelfs de oude Egyptenaren hielden van bingo! Kom deze week naar onze Mega Jackpot kamer voor onze Bingo Linx- spellen. We geven de komende week dagelijks €8000 weg, en op 8 juli geven we nog eens €10 weg aan extra chatprijzen, tussen 20.00-22.00!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Walk like an Egyptian! $$$</text>
+		<text type="normal">Bezoek de tombes van de farao's, rijd op een kameel door de Sahara of ontdek een oase; welkom in het exotische land Egypte! Doe deze week mee aan het €1500 Egyptian Casino-toernooi. Speel tussen 8 en 14 juli op Secret of Horus, The Lost Pyramid en Arabian Nights, en je maakt kans op een van de 10 geweldige prijzen.</text>
+		<text type="playnow" url="/~subfolder~/casino/toernooien?id=1296" />
+		<text type="title">Ga nu op zoek naar die eeuwenoude verborgen schatten!</text>
+	</week>
+	<week>
+		<country>VS - New York en Dallas</country>
+		<text type="title">Howdy - Verdien tot 50 gratis spins! $$$</text>
+		<text type="normal">Shop er op los met je vriendinnen in Hot City, en ga op bezoek bij JR om rijkdommen aan te boren in Dallas! Speel deze week Hot City of Dallas, en je kunt 50 gratis spins verdienen voor Hot City, Dallas of Dead or Alive!
+
+Zet €15 in – ontvang 10 gratis spins 
+Zet €25 in – ontvang 25 gratis spins
+Zet €40 in – ontvang 50 gratis spins 
+ 
+Om je te kwalificeren moet je tussen 15 en 21 juli €15 of meer inzetten op Hot City of Dallas. Afhankelijk van hoeveel je inzet, verdien je een aantal gratis spins. En vergeet niet, jij mag bepalen op welke slot je je gratis spins wilt gebruiken; Hot City, Dallas of Dead or Alive! Speel vandaag nog Hot City en Dallas!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">New York New York!</text>
+		<text type="normal">Wie houdt er nou niet van de prachtig verlichte  stad New York? Kom langs in de Mega Jackpot kamer, en win extra chatprijzen met vragen over New York (quiz). Fris je kennis over New York op en ontmoet ons daar!</text>
+		<text type="title">De Mafia geeft 15% Cash Back! $$$</text>
+		<text type="normal">De mafiosi van Chicago zijn terug - speel deze week Mafia Millions in Bingo, en je krijgt 15% cash back op je verliezen! Speel deze lucratieve mini game tussen 15 en 21 juli, en je krijgt 15% terug van alles wat je verloren hebt, tot €100!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">God Bless America! $$$</text>
+		<text type="normal">We organiseren deze week een wekelijks casinotoernooi met een twist. We reizen door de VS en staan stil bij alles wat geweldig is aan Amerika. We beginnen aan de oostkust met het New Yorkse Hot City. Vervolgens komen we op weg naar het westen Dallas tegen. Eenmaal in het wilde westen aangekomen kun je genieten van de slot Dead or Alive. Tot slot kun je aan de westkust griezelen met Frankenstein, en we sluiten passend af met Hall of Fame!</text>
+		<text type="playnow" url="/~subfolder~/casino/toernooien?id=1298" />
+		<text type="title">Op naar het land van de onbegrensde mogelijkheden!</text>
+	</week>
+	<week>
+		<country>Brazilië/Peru</country>
+		<text type="title">Ga met ons mee op avontuur in de jungle met gratis spins en cash backs! $$$</text>
+		<text type="normal">Je krijgt 15% cash back op al je verliezen, en je maakt kans op 15 gratis spins voor Gonzo's Quest! We gaan deze week uit onze bol door de junglekoorts, en we bieden je 15% cash back op je verliezen op een van de volgende avontuurlijke slots: Amazon Wild, City of Gold of Fire Hawk. Speel deze week voor 15% cash back op je verliezen! Daarnaast maak je, als je tussen 22 en 28 juli speelt, kans op een van de 50 prijzen - 15 gratis spins op Gonzo’s Quest! 
+Begin je speurtocht door de exotische Zuid-Amerikaanse jungle vandaag nog!</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">Carnival – GRATIS-  Bingo! $$$</text>
+		<text type="normal">Het is de hele week Carnival Bingo in Diamond Daubers. Elke dag organiseren we GRATIS Bingo met een prijzenpot van €10, tussen 13.00-14.00. 's Avonds gaat de parade weer van start met nóg een ronde GRATIS bingo met een prijzenpot van €10 in kamer Goudmijn!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Op jacht naar de schat! $$$</text>
+		<text type="normal">In het Inca Casino-toernooi van deze week draait alles om het vinden van de schat. Om kans te maken op een deel van de prijzenpot van €1500, moet je vandaag nog op zoek gaan naar de schat. Help Gonzo op zijn zoektocht naar Eldorado in Gonzo’s Quest, speur naar de X waaronder de schat ligt in Treasure Hunt, en ga op zoek naar goud in onze klassieke slot, Gold Rush. Onthoud, als je de beste 20 opeenvolgende rondes speelt, ben jij de winnaar van de hoofdprijs!</text>
+		<text type="playnow" url="/~subfolder~/casino/toernooien?id=1299" />
+	</week>
+	<week>
+		<country>Fiji</country>
+		<text type="title">Win ELKE DAG 10 gratis spins op Dragon Island! $$$</text>
+		<text type="normal">Dit is jouw kans om tot 70 gratis spins te winnen voor onze gloednieuwe slot Dragon Island! Elke dag kiezen we 10 willekeurige spelers die die dag minimaal €10 hebben gestort. De volgende 7 dagen geven we ELKE DAG 10 gratis spins aan 10 gelukkige spelers! Doe simpelweg elke dag een storting tussen 29 juli om 0:01 en 04 augustusom 23.59. Je doet vervolgens automatisch mee met de trekking, en maakt kans op maximaal 70 gratis spins voor onze nieuwe slot Dragon Island! JE MAAKT ELKE DAG KANS!</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">Tiki Beach Party Bingo $$$</text>
+		<text type="normal">Zet deze week €20 in, en je krijgt toegang tot onze speciale Tiki Beach party bingo room, met gratis bingo, twee voor de prijs van één en goedkope loten!  Zodra je €20 of meer hebt ingezet op bingo, krijg je automatisch toegang. De Tiki Beach Party wordt elke dag gehouden, van vrijdag 29 juli tot donderdag 4 augustus tussen 17.00-10.00 , dus pak er een cocktail bij en zeg 'Aloha' tegen een feestelijke avond!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Geniet in het paradijs! $$$</text>
+		<text type="normal">Welkom in de Stille Zuidzee, eindeloze zandstranden en kristalheldere wateren... Om deel te nemen aan het €1500 Pacific Casino-toernooi van deze week, hoef je alleen maar te spelen op de jackpotslots Tiki Wonders, Fishy Fortune, Pacific Attack en ons nieuwe spel, Dragon Island. Speel 20 rondes op deze spellen tussen vrijdag 29 juli en donderdag 4 augustus, en je maakt kans op een van de 10 geweldige prijzen die we verloten</text>
+		<text type="playnow" url="/~subfolder~/casino/toernooien?id=1300" />
+	</week>
+	<week>
+		<country>South Africa</country>
+		<text type="title">End of Summer Jungle Games! $$$</text>
+		<text type="normal">Zet deze week €10 of meer in op de leuke slot Jungle Games, en je maakt een maand lang ELKE WEEK kans op een berg geld! Geld nodig om de rest van de zomer te financieren?! Maak je geen zorgen: zet tussen 5 en 11 augustus €10 of meer in op Jungle Games, en je doet automatisch mee met een loterij waarin je een maand lang elke week €100 kunt winnen!</text>
+		<text type="title">5 gratis Piggy-spins! $$$</text>
+		<text type="normal">Wanneer je minimaal €10 stort en inzet op Jungle Games in de End of Summer Jungle Games-promotie, ontvang je 5 gratis spins voor Piggy Riches! Stort simpelweg €10 tussen 5 en 11 augustus en zet die €10 in op Jungle Games om 5 gratis spins voor Piggy Riches te ontvangen. Knortastisch!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Goudmijn Bingo $$$</text>
+		<text type="normal">Openingstijden: 09:00-02:00
+Welkom in deze fonkelende goudmijn, waarin we dag in dag uit gegarandeerde prijzen uitdelen! Houd je ogen open voor een aantal speciale promoties, zoals 2 voor de prijs van 1 en enorme jackpotspellen! Dagelijks open van 09:00 - 02:00. Het goud ligt voor het oprapen in deze goudmijn!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Leeuwen en tijgers en giraffes – Oh jee! $$$</text>
+		<text type="normal">Deze week staan de Afrikaanse dieren centraal! Doe deze week mee aan het African Casino-toernooi. Om deel te nemen, speel je simpelweg onze slot met sportende dieren, Jungle Games, de klassieke slot Safari madness en niet te vergeten de rijke Afrikaanse varkens van Piggy Riches!</text>
+		<text type="playnow" url="/~subfolder~/casino/toernooien?id=1301" />
+		<text type="title">Verken de Afrikaanse steppe vandaag nog!</text>
+	</week>
+</summerpromo>

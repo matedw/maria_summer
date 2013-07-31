@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<summerpromo>
+	<config>
+		<subfolder>de</subfolder>
+	</config>
+	<common>
+		<intro>Summer Dreaming...</intro>
+		<intro>Reise diesen Sommer in 7 Wochen um die Welt! 
+Besuche das Land der Wikinger, wandere durch den Dschungel von Peru oder entspanne an einem Strand auf dem Fidschi-Inseln!
+Wirf einen Blick auf die untere Weltkarte und schaue, zu welchen Weltwundern du heute entfliehen kannst!</intro>
+		<playnow>Jetzt spielen</playnow>
+		<clickhere>Hier klicken</clickhere>
+		<readmore>Weitere Infos</readmore>
+		<tnc>Allgemeine Geschäftsbedingungen</tnc>
+		<cash url="/~subfolder~/leaderboard/~subfolder~">Gewinne 3.000 € in BAR</cash>
+		<playing>Bei wöchentlichen Spielen in Summer Dreaming</playing>
+		<details>Klicke auf die Schaltfläche für weitere Informationen!</details>
+		<close>Close</close>
+	</common>
+	<week />
+	<week />
+	<week>
+		<country>Skandinavien</country>
+		<text type="title">15 % Rückzahlung für deine Verluste bei Hall of Gods! $$$</text>
+		<text type="normal">Spüre den Zorn der Götter! Erhalte eine 15 %-ige Rückzahlung für deine Verluste, wenn du diese Woche Hall of Gods spielst! Spiele zwischen dem 24. und 30. Juni für Echtgeld, um nicht nur die Chance auf den Jackpot-Gewinn im Wert von über 1,5 Mio. € zu haben, sondern auch eine 15 %-ige Rückzahlung für alle Verluste zu erhalten! Die Götter scheinen uns diese Woche gewogen zu sein! </text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Es ist Zeit für Super BingoLinx!!! $$$</text>
+		<text type="normal">Verpasse diesen Sonntag nicht Super BingoLinx mit einem riesigen Preispool von 10.000 €! Super BingoLinx beginnt um 22:30 Uhr GMT im Mega Jackpot-Raum und die Tickets kosten nur 0,50 €. Begib dich also frühzeitig in den Raum und sei bereit für Action!</text>
+		<text type="title">Spiele für 5 € bei einem Bingospiel und erhalte 5 € GRATIS für Dynamite Digger! $$$</text>
+		<text type="normal">Hast du unser explosives Minispiel „Dynamite Digger“ versucht? Nein? Dann hast du jetzt die Chance! 
+Setze zwischen dem 24. und 30. Juni 5 € auf ein Bingospiel und du erhältst automatisch 5 € für unser Minispiel „Dynamite Digger“! 
+</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Wikinger, mythische Götter und 5 Free Spins für Trolle! $$$</text>
+		<text type="normal">Willkommen in Skandinavien! 
+Für die Teilnahme am Scandinavian Casino Tourney diese Woche musst du zwischen Freitag, dem 24. Juni und Donnerstag, dem 30. Juni, "Hall of Gods“, "Vikings Treasure“,"Fruit Case“ und „Jackpot 6000“ spielen. Dadurch hast du die Chance, den 1. Preis von 500 € einzukassieren! 
+UND neben einem wöchentlichen Bargeldgewinn beim Turnier kannst du mit einem Einsatz von 10 € auf eines der obigen Spiele im skandinavischen Turnier 5 FREE Spins für unseren magischen Spielautomaten „Trolls“ erhalten!
+</text>
+		<text type="playnow" url="/~subfolder~/casino/Turniere?id=1295" />
+		<text type="title">Jage jetzt die Mitternachtssonne in Skandinavien!</text>
+	</week>
+	<week>
+		<country>Holland</country>
+		<text type="title">Im Sommer: Monatliches blumiges Top-Up für Flowers und 5 FREE Spins für einen Mystery-Spielautomaten! $$$ </text>
+		<text type="normal">Spiele vom 1. bis 7. Juli für min. 10 € an unserem beliebten Spielautomaten „Flowers“ und 
+nimm nicht nur an der Gewinnziehung von monatlich 50 € für die nächsten 3 Monate teil,
+sondern erhalte ebenfalls 5 FREE Spins für einen Mystery-Spielautomaten! Der Mystery-Spielautomat wird am 8. Juni auf unserer Seite vorgestellt. Besuche die Seite also am 8. Juni, um herauszufinden, wo du deine 5 FREE Spins 
+einsetzen kannst! Rätsel muss man einfach mögen!!! Vergiss also nicht, dass es 6 unglaubliche Preise im Wert von 150 € zu gewinnen gibt. Dann los, spiele „Flowers“ noch heute!
+</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">	Verrückte Reihengewinne! $$$</text>
+		<text type="normal">Versuche jeden Tag zwischen 17:00 und 19:00 Uhr GMT dein Glück mit unseren verrückten Reihengewinnen in Studio 60! 
+Nun brauchst du kein vollständiges Ticket mehr, um einen tollen Preis zu gewinnen. Jede Reihe enthält einen Barpreis, der ein prozentualer Anteil des Gesamtbetrags ist, der in jedem Spiel gewettet wird. 
+Versuch noch heute dein Glück mit den verrückten Reihengewinnen in Studio 60!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Blumen und Seifenblasen $$$</text>
+		<text type="normal">Erwache und rieche die Blumen! Nimm diese Woche am farbenfrohen 1.500 €-Holland Casino Tourney teil. Spiele dazu am großartigen Spielautomaten „Flowers“ und versuche dein Glück mit dem Rubbellos „Bubbles“. Zwischen Freitag, dem 1. Juli und Donnerstag, dem 7. Juli hast du die Chance, einen der 10 Preise mit nach Hause zu nehmen.</text>
+		<text type="playnow" url="/~subfolder~/casino/Turniere?id=1297" />
+		<text type="title">Blumig-fantastisch!</text>
+	</week>
+	<week>
+		<country>Ägypten</country>
+		<text type="title">•	5 × 50 € Spa-Geschenkgutscheine und 5 Free Spins! $$$</text>
+		<text type="normal">Zahle ein und spiele an einem der begehrten Spielautomaten im ägyptischen Stil. Dadurch nimmst du nicht nur an unserer großartigen Gewinnziehung für einen von 5 Spa-Geschenkgutscheinen im Wert von 50 €teil, sondern du erhältst auch 5 Free Spins für „Secret of Horus“. 
+Willst du eine seidige Haut wie Kleopatra, bevor du diesen Sommer zum Strand gehst? Dann ist dies deine Chance, einen Spa-Gutschein im Wert von 50 € zu gewinnen und 5 Free Spins für „Secret of Horus“ zu erhalten. 
+Wir vergeben 5 Gutscheine und alles, was du zur Teilnahme tun musst, ist, zwischen dem 8. und 14. Juli min. 15 € einzuzahlen und für ein Minimum von 15 € an einem der folgenden Spielautomaten zu spielen: 
+Secret Horus, Cleopatra, Sands of Fortune und Ramesses Riches. Dadurch nimmst du nicht nur automatisch an der Gewinnziehung für fabelhafte Spa-Gutscheine teil, sondern du erhältst auch 5 Free Spins für 
+„Secret of Horus“ Jetzt einzahlen und spielen!
+</text>
+		<text type="playnow" url="/~subfolder~/wallet/deposit" />
+		<text type="title">Sphinx Bingo! $$$</text>
+		<text type="normal">Selbst die alten Ägypter liebten Bingo! Besuche uns im Mega Jackpot-Raum, um bei unseren Bingo Linx-Spielen diese Woche mitzumachen. In der nächsten Woche zwischen 19:00 und 21:00 Uhr GMT vergeben wir täglich 8.000 € und am 8.
+		 Juli zusätzlich 10 € für jeden Chat-Gewinn. </text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Walk like an Egyptian! $$$</text>
+		<text type="normal">Es wird Zeit, die Gräber der Pharaonen zu besuchen, auf einem Kamel durch die Wüste Sahara zu reiten und eine Oase zu entdecken. Willkommen im exotischen Land Ägypten! 
+		Zur Teilnahme am 1.500 €-Egyptian Casino Tourney in dieser Woche musst du zwischen Freitag, dem 8 Juli und Donnerstag, dem 4. Juli „Secret of Horus“, „The Lost Pyramid“ 
+		und „Arabian Nights“ spielen, um eine Chance zu haben, einen der 10 atemberaubenden Preise mit nach Hause zu nehmen..</text>
+		<text type="playnow" url="/~subfolder~/casino/Turniere?id=1296" />
+		<text type="title">Los geht's! Finde die versteckten Schätze des Altertums!</text>
+	</week>
+	<week>
+		<country>USA - New York & Dallas</country>
+		<text type="title">Howdy – Verdiene bis zu 50 Free Spins! $$$</text>
+		<text type="normal">Lass es in Hot City mit den Mädels krachen und besuche JR, um in Dallas plötzlich reich zu werden! Spiele diese Woche „Hot City“ oder „Dallas“ und du erhältst 50 Free Spins, die du für „Hot City“, „Dallas“, „Frankenstein“ oder „Dead Alive“ verwenden kannst.
+
+Spiele für 15 € – Erhalte 10 Free Spins 
+Spiele für 25 € – Erhalte 25 Free Spins
+Spiele für 40 € – Erhalte 50 Free Spins 
+ 
+Zur Qualifizierung musst du zwischen dem 15. und 21. Juli für min. 15 € „Hot City“ oder Dallas“ spielen. Abhängig von dem von dir gesetzten Betrag wird die Anzahl von Free Spins bestimmt. Denke daran, dass du entscheiden kannst, für welchen Spielautomaten du deine Free Spins verwenden kannst: „Hot City“, „Dallas“, „Frankenstein“ oder „Dead Alive“. Mach dich noch heute auf den Weg nach Hot City und Dallas!
+</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">New York New York!</text>
+		<text type="normal">Wer mag denn nicht die Lichter der großen Stadt New York? Gesell dich im Mega Jackpot-Raum zu uns, um beim New York-Quiz mitzumachen und zusätzliche Chat-Gewinne mitzunehmen.
+		 Verbessere jetzt dein New York-Wissen und triff uns dort!</text>
+		<text type="title">Die Mafia gibt eine 15 %-ige Rückzahlung! $$$</text>
+		<text type="normal">Der Chicago Mob ist zurück in der Stadt – Spiele diese Woche „Mafia Millions“ beim Bingo und erhalte eine 15 %-ige Rückzahlung für deine Verluste! 
+		Spiele dieses aufregende Minijackpotspiel zwischen dem 15. und 21. Juli und erhalte eine 15 %-ige Rückzahlung für alles, was du bis 100 € verlierst!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">	Gott schütze Amerika! $$$</text>
+		<text type="normal">Diese Woche veranstalten wir ein Casino Tournament der etwa anderen Art. Wir reisen durch die US-Staaten und feiern alles, was die USA so bemerkenswert macht. Wir starten an der Ostküste im New York-Stil mit „Hot City“, reisen durch das Land nach „Dallas“ und versuchen unser Glück an unserem Western-Spielautomat „Dead or Alive“. 
+		Das Ende unserer Reise bringt uns an die Westküste für ein verrücktes Spiel mit „Frankenstein“ und ein bisschen Stargefühl in der „Hall of Fame“.</text>
+		<text type="playnow" url="/~subfolder~/casino/Turniere?id=1298" />
+		<text type="title">Los geht's in das Land der unbegrenzten Möglichkeiten!</text>
+	</week>
+	<week>
+		<country>Brasilien/Peru</country>
+		<text type="title">Nimm an unserem Dschungelabenteuer teil – Erhalte eine 15 %-ige Rückzahlung für deine Verluste! $$$</text>
+		<text type="normal">Erhalte eine 15 %-ige Rückzahlung für deine Verluste und die Chance, 15 Free Spins in „Gonzo's Quest“ zu gewinnen.
+Das Dschungelfieber macht uns diese Woche verrückt und wir bieten eine 15 %-ige Rückzahlung für deine Verluste, wenn du diese Woche an einem der folgenden Spielautomaten spielst: „Amazon Wild“, „City of Gold“ oder „Fire Hawk“! 
+Zusätzlich nimmst du an der Gewinnziehung für 1 von 50 × 15 Free Spins teil, wenn du zwischen dem 22. und 28. Juli spielst. 
+Beginne deine Expedition durch die exotischen Dschungel von Südamerika noch heute!</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">Kostenloses Karnevalsbingo! $$$</text>
+		<text type="normal">Wir spielen die ganze Woche im Diamand Daubers zwischen 12:00 und 13:00 Uhr GMT KOSTENLOS Karnevalsbingo mit 10 €-Töpfen. Am Abend zwischen 22:00 und 23:00 
+		Uhr GMT findet die Parade statt, bei der erneut KOSTENLOS Bingo mit 10 €-Töpfen in der „Gold Mine“ gespielt werden kann.</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">	Die Jagd nach dem Schatz beginnt! $$$</text>
+		<text type="normal">Diese Woche geht es darum, den Schatz im Inca Casino Tournament zu finden. Für deine Chance, einen Teil des 1.500 €-Preispools mitzunehmen, musst du heute 
+		die Jagd nach dem Schatz beginnen. Hilf Gonzo in „Gonzo's Quest“ bei der Suche nach Eldorado. Suche X-Markierungen bei „Treasure Hunt“ und Gold mit unserem klassischen Spielautomaten „Gold Rush“.
+		 Denke daran, dass du nach den 20 besten aufeinander folgenden Runden im Echtgeldmodus unser glücklicher Gewinner bist!</text>
+		<text type="playnow" url="/~subfolder~/casino/Turniere?id=1299" />
+	</week>
+	<week>
+		<country>Fidschi</country>
+		<text type="title">	Gewinne täglich 10 Free Spins bei ,Dragon Island“! $$$</text>
+		<text type="normal">Hier ist deine Chance bis zu 70 Free Spins an unserem brandneuen Spielautomaten „Dragon Island“ zu gewinnen! Jeden Tag wählen wir zufällig 10 Personen aus, die an diesem 
+		Tag min. 10 € eingezahlt haben. Über die nächsten 7 Tage geben wir jeden Tag 10 glücklichen Personen jeweils 10 Free Spins. Zahle einfach zwischen Freitag, dem 29. Juli 00:01 Uhr und Donnerstag 4. August
+ 23:59 Uhr jeden Tag ein und du nimmst automatisch an der Gewinnziehung teil, um bis zu 70 Free Spins für unseren neuen Spielautomaten ,Dragon Island“ zu gewinnen!</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+				<text type="title">Tiki Beach Party Bingo $$$</text>
+		<text type="normal">Setze diese Woche 20 € und du erhältst Zugang zu unserem speziellen Tiki Beach Party-Bingoraum mit kostenlosem Bingo, „Kaufe 1, erhalte 1 gratis“ und billigen Tickets! 
+		Sobald du 20 € oder mehr für Bingo gesetzt hast, erhältst du automatisch Zugang. Die Tiki Beach Party ist zwischen Freitag, dem 29. Juli und Donnerstag, dem 4. August täglich zwischen 16:00 und 20:00 
+		Uhr GMT aktiv. Schnapp dir also deinen Palmenwedelrock und tanze Hula die ganze Nacht!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Genieße das Paradies! $$$</text>
+		<text type="normal">Willkommen im Südpazifik mit endlosen Sandstränden und kristallklarem Wasser... Zur Teilnahme am 1.500 €-Pacific Casino Tournament in dieser Woche musst du an unseren 
+		Jackpot-Spielautomaten „Tiki Wonders“ und „Fishy Fortune“ spielen, am „Pacific Attack“ drehen und unseren neuen Spielautomaten „Dragon Island“ testen. Spiele zwischen Freitag, dem 29.
+		Juli und Donnerstag, dem 4. August alle diese Spiele und du erhältst die Chance, einen von 10 atemberaubenden Preisen zu gewinnen.</text>
+		<text type="playnow" url="/~subfolder~/casino/Turniere?id=1300" />
+	</week>
+	<week>
+		<country>Südafrika</country>
+		<text type="title">Dschungelspiele zum Sommerende! $$$</text>
+		<text type="normal">Spiele diese Woche für min. 10 € bei Dschungelspielen und du erhältst die Chance, jede Woche für einen Monat einen Haufen Bargeld zu gewinnen! Brauchst du Geld, um den Rest 
+		des Sommers zu genießen? Keine Sorge – Spiele zwischen dem 5. und 11. August für min. 
+		10 € bei Dschungelspielen und du nimmst automatisch an der Gewinnziehung teil, um für den nächsten Monat jede Woche 100 € zu gewinnen.</text>
+		<text type="title">5 Free Piggy Spins! $$$</text>
+		<text type="normal">Bei einer Einzahlung von einem Minimum von 10 € und beim Spielen der Dschungelspiele für 10 € in unserer „End of Summer Jungle Games Promotion“ erhältst du 5 Free Spins für „Piggy Riches“! Zahle einfach zwischen dem 5. und 11. August 10 € ein, spiele für min. 
+		10 € bei Dschungelspielen und erhalte 5 Free Spins für „Piggy Riches“. Grunztastisch!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Gold Mine $$$</text>
+		<text type="normal">Öffnungszeiten: 8:00–1:00 Uhr
+Willkommen in der funkelnden Goldmine, wo dir jederzeit und jeden Tag Gewinne garantiert sind! Halte die Augen für eine unserer Spezialpromotionen offen wie „Kaufe 1, erhalte 1 gratis“ oder Spiele mit 
+großem Jackpot. Geöffnet von 8:00 bis 1:00 Uhr jeden Tag – Es ist nicht so schwer, GOLD in „Gold Mine“ zu finden!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Löwen, Tiger und Giraffen – Wahnsinn! $$$</text>
+		<text type="normal">In dieser Woche dreht sich alles um die afrikanische Wildnis! Nimm diese Woche am African Casino Tournament teil. Dafür musst an unserem verrückten Spielautomaten „Olympic“ 
+		spielen, Dschungelspiele absolvieren, am klassischen Spielautomaten 
+		„Safari Madness“ dein Glück versuchen und unser reiches afrikanisches Schweinchen in „Piggy Riches“ treffen! !</text>
+		<text type="playnow" url="/~subfolder~/casino/Turniere?id=1301" />
+		<text type="title">Entdecke noch heute die afrikanische Steppe!</text>
+	</week>
+</summerpromo>

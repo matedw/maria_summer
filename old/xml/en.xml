@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<summerpromo>
+	<config>
+		<subfolder>en</subfolder>
+	</config>
+	<common>
+		<intro>Summer Dreaming...</intro>
+		<intro>Head around the world in 7 weeks this summer! Visit the land of the Vikings, take a trek through the jungles of Peru or just relax on a beach in Fiji! Take a peek at our world map below, click on the icons and see what wonders of the world you can escape to today! New destination every week with new promotions!</intro>
+		<playnow>Play now</playnow>
+		<clickhere>Click here</clickhere>
+		<readmore>Read more</readmore>
+		<tnc>Terms & Conditions</tnc>
+		<cash url="/~subfolder~/leaderboard/~subfolder~">Peek a Boo!</cash>
+		<playing>We are giving away £3000 in our summer dreaming competition!</playing>
+		<details>Click the plane for details!</details>
+		<close>Close</close>
+	</common>
+	<week />
+	<week />
+	<week>
+		<country>Scandinavia</country>
+		<text type="title"> 15% Cash back on your losses - Hall of Gods! $$$</text>
+		<text type="normal">24th June - 30th June
+Feel the wrath of the gods! Get 15% cash back on your losses when playing Hall of Gods this week. Play in real money mode between 24th June and the 30th June and not only do you have the chance to take home the Jackpot, worth over £1,5 million, but you will receive 15% cash back on whatever you lose!  The gods really must be feeling generous this week!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">It’s time for Super BingoLinx!!! $$$</text>
+		<text type="normal">26th June
+Don’t miss this Sunday’s Super Bingo Linx game with a huge prize pool of £10,000 up for grabs! Super Bingolinx starts promptly at 22.30GMT in the Mega Jackpot Room and tickets are only £0.50 so get there nice and early, ready for all the action!</text>
+		<text type="title">Play for £5 on any Bingo Game and receive £5 for FREE on Dynamite Digger! $$$</text>
+		<text type="normal">24th June - 30th June
+Have you tried our explosive mini game Dynamite Digger? No? Well here’s your chance! Simply spend £5 on any of the Bingo Games, between 24th June and the 30th June, and you will have £5 automatically credited to our mini game - Dynamite Digger!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Vikings, Mythical Gods and 5 Free Spins on Trolls! $$$</text>
+		<text type="normal">24th June - 30th June
+Welcome to Scandinavia! To participate in this week’s £1500 Scandinavian Casino Tourney, all you need to do is play on Hall of Gods, Vikings Treasure, Fruit Case and Jackpot 6000; between Friday 24th June and Thursday 30th June, and you will have the chance to pocket yourself the first prize of £500! AND not only do you have the chance to win cash in the weekly tournament but if you play for more than £10 on any of the games above in the Scandinavian Tournament – You will receive 5 FREE spins on our magical slot Trolls!</text>
+		<text type="playnow" url="/~subfolder~/casino/tournaments?id=1295" />
+		<text type="title">Chase the Midnight Sun Now in Scandinavia!</text>
+	</week>
+	<week>
+		<country>Holland</country>
+		<text type="title">Summer Monthly Flowery Top-Up & 5 FREE spins on a Mystery Slot! $$$</text>
+		<text type="normal">1st July -7th July
+Play for £10 or more on our popular slot Flowers, between the 1st July and the 7th July, and not only will you go in the draw to win a bunch of money- £50 every month, for the next 3 months;but you will also receive 5 FREE spins on a Mystery Slot! The Mystery slot will be revealed on the 8th of July on site, so make sure you visit the site on the 8th to see where you have 5 FREE spins to use! Don’t you just love a bit of Mystery!!! Also, don’t forget there are 6 incredible prizes of £150 to be won, so don’t welt away; play Flowers today!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Crazy Row Winnings! $$$</text>
+		<text type="normal">1st July -7th July
+Play our crazy row winnings in Studio 60 every day, between 17.00-19.00 GMT! Now you don´t need to get full ticket to win an amazing prize. Each row has a cash prize, which is a percentage of the total amount wagered in each game check out Crazy Row winnings in Studio 60 this week!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Flowers and Bubbles $$$</text>
+		<text type="normal">1st July -7th July
+Wake up and smell the flowers! Join this week’s colourful £1500 Holland Casino Tourney, all you need to do is play our gorgeous slot Flowers and cheerful scratch card Bubbles; between Friday 1st July and Thursday 7th July, and you will have the chance to take home one of the 10 prizes up for grabs.</text>
+		<text type="playnow" url="/~subfolder~/casino/tournaments?id=1297" />
+		<text type="title">Blooming Fantastic!</text>
+	</week>
+	<week>
+		<country>Egypt</country>
+		<text type="title">5 x £50 Spa Gift Vouchers & 5 Free Spins! $$$</text>
+		<text type="normal">8th July -14th July
+Deposit & play on any of treasured Egyptian Style slots and not only do you go in the draw to win one of 5 x £50 Spa Gift Vouchers, but you will get 5 Free Spins on the Secret of Horus! Need your skin to be as milky as Cleopatra’s before you hit the beach this summer?! Then here’s your chance to win a Spa Voucher worth £50 and enjoy 5 Free Spins on Secret of Horus.  There are 5 vouchers to giveaway and all you need to do to participate is,  deposit a minimum of £15 and play for a minimum of £15 on any of the following slots; Cleopatra, Sands of Fortune or Ramesses Riches, between the 8th and 14th July. Not only  will automatically enter the prize draw for the scrumptious spa vouchers, but  you will receive 5 Free Spins on Secret of Horus. Deposit & Play Now!</text>
+		<text type="playnow" url="/~subfolder~/wallet/deposit" />
+		<text type="title">Sphinx Bingo! $$$</text>
+		<text type="normal">8th July
+Even the ancient Egyptians loved Bingo! Join us in our Mega Jackpot room for our Bingo Linx Games this week. We are giving away £8000 daily over the next week and on the 8th July we will be giving out an extra £10 in extra chat winnings, between 19.00-21.00 GMT!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Walk like an Egyptian! $$$</text>
+		<text type="normal">8th July -14th July
+Time to visit the Pharaohs Tombs, ride a camel across the Sahara Desert or discover an oasis; welcome to the exotic land of Egypt! To participate in this week’s £1500 Egyptian Casino Tourney, all you need to do is play the Secret of Horus, The Lost Pyramid and Arabian Nights; between Friday 8th July and Thursday 14th July, and you will have the chance to take home one of the 10 amazing prizes up for grabs.</text>
+		<text type="playnow" url="/~subfolder~/casino/tournaments?id=1296" />
+		<text type="title">Go forth now and find the hidden treasures of the ancients!</text>
+	</week>
+	<week>
+		<country>USA - New York & Dallas</country>
+		<text type="title">Howdy - Earn up to 50 Free Spins! $$$</text>
+		<text type="normal">15th July - 21st July.
+Kick up your heels with the girls in Hot City and visit JR to strike it rich in Dallas! Play on Hot City or Dallas this week and you can get up to 50 Free Spins to use on Hot City, Dallas, Frankenstein or Dead Alive!
+Play for £15 – Receive 10 Free Spins 
+Play for £25 – Receive 25 Free Spins
+Play for £40 – Receive 50 Free Spins 
+To qualify or you need to do is play for £15 or more on Hot City or Dallas between the 15th-21st July, and you could earn up to 50 Free Spins. Remember, you can decide which slot you would like to use your free spins on; Hot City, Dallas, Frankenstein or Dead Alive!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">New York New York!</text>
+		<text type="normal">16th July
+Who doesn’t love the big city lights of New York? Join us in the Mega Jackpot room for some New York quizzes and extra chat winnings to give away. Brush up on your New York Knowledge now and meet us there!</text>
+		<text type="title">The Mafia are giving 15% Cash Back! $$$</text>
+		<text type="normal">15th July - 21st July
+The Chicago Mob are back in Town – Play Mafia Millions in the Bingo this week and get 15% cash back on your losses! Play this shooting jackpot mini game between 15th July and the 21st July and get 15% cash back on everything you lose up to £100! </text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">God Bless America! $$$</text>
+		<text type="normal">15th July - 21st July
+We have a Weekly Casino Tournament with a Twist, this week. We are travelling across the states and celebrating all that is great about the US of A. We start on the East Coast, New York Style with Hot City, moving across country we head to Dallas and take a ride on our western slot Dead or Alive; ending up on the West Coast for some crazy Frankenstein and fitting Hall of Fame!</text>
+		<text type="playnow" url="/~subfolder~/casino/tournaments?id=1298" />
+		<text type="title">Let’s Head to the Land of Free!</text>
+	</week>
+	<week>
+		<country>Brazil/Peru</country>
+		<text type="title">Join us for a Jungle Adventure of Free Spins and Cash Backs! $$$</text>
+		<text type="normal">22nd July - 28th July 
+Get 15% Cash Back on your losses and the chance to win 15 free spins on Gonzo’s Quest! Jungle fever is sending us crazy this week; when playing any of the following adventures slots;  Amazon Wild, City of Gold or Fire Hawk, you will get 15% cash back on your losses! In addition, when playing on any of these games between the 22nd July and the 28th July, you will go in the draw to win 1 of 50 - 15 Free Spins on Gonzo’s Quest! Start exploring the exotic jungles of South America today!</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">Carnival Free Bingo! $$$</text>
+		<text type="normal">22nd July - 28th July 
+It’s crazy Carnival Bingo all this week in Diamond Daubers, every day we have FREE Bingo with £10 pots, between 12.00-13.00 GMT. Then in the evening, between 22.00-23.00 GMT the parade kicks off yet again with another round of FREE bingo with £10 pots in the Gold Mine!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">The hunt for treasure is on! $$$</text>
+		<text type="normal">22nd July - 28th July 
+It’s all about finding treasure in this week’s Inca Casino Tournament. For your chance to take a share of the £1500 prize pool, all you need to do is, start your treasure hunting today! Help Gonzo find Eldorado in Gonzo’s Quest, find X marks the spot in Treasure Hunt and Strike Gold in our classic slot, Gold Rush. Remember, if you get the 20 best consecutive rounds in real money mode, then you’re our lucky 1st place winner!</text>
+		<text type="playnow" url="/~subfolder~/casino/tournaments?id=1299" />
+	</week>
+	<week>
+		<country>Fiji</country>
+		<text type="title">Win 10 Free Spins Daily on Dragon Island! $$$</text>
+		<text type="normal">29th July - 4th August
+Here is your chance to win up to 70 free spins on our brand new slot Dragon Island! Each day we will randomly select 10 people, whom have made a minimum deposit of £10 during that day. Over the next 7 days, we will give out 10 Free Spins to 10 lucky people every day! Simply make a deposit every day between, Friday 29th July 00.01 and the 4th August 23.59 GMT, and you will go in the draw automatically and you could take home up to 70 Free spins on our new slot Dragon Island!</text>
+		<text type="playnow" url="/~subfolder~/slots" />
+		<text type="title">Tiki Beach Party Bingo $$$</text>
+		<text type="normal">29th July - 4th August
+Simply stake £20 this week and you will gain access to our special Tiki Beach party bingo room with Free Bingo, BOGOF and cheap tickets!  Once you have staked £20 or more on Bingo, you will gain automatic access. The Tiki Beach Party will be active daily, from Friday 29th July until Thursday 4th August, between 16.00-20.00 GMT, so grab your grass skirt and hula the night away !</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Enjoy Paradise! $$$</text>
+		<text type="normal">29th July - 4th August
+Welcome to the South Pacific, endless sandy beaches and crystal clear water…. To participate in this week’s £1500 Pacific Casino Tournament, all you need to do is play on our Jackpot Slots Tiki Wonders, Fishy Fortune, take a spin on Pacific Attack and play our new game, Dragon Island. Play on all these games between Friday 29th July and Thursday 4thAugust and you will have the chance to take home one of the 10 amazing prizes up for grabs.</text>
+		<text type="playnow" url="/~subfolder~/casino/tournaments?id=1300" />
+	</week>
+	<week>
+		<country>South Africa</country>
+		<text type="title">End of Summer Jungle Games! $$$</text>
+		<text type="normal">5th August - 11th August
+Play for £10 or more on Jungle Games this week and you will have the chance to win a stash of cash weekly for a month! Need cash to fund the rest of your summer?! Not to worry, play for £10 or more on Jungle Games, between the 5th and 11th August and you will automatically enter the prize draw to win £100 weekly for the next month!</text>
+		<text type="title">5 Free Piggy Spins! $$$</text>
+		<text type="normal">5th August - 11th August
+When depositing a minimum of £10, in addition to playing for a minimum of £10 on Jungle Games in our End of Summer Jungle Games promotion; you will receive 5 Free Spins on Piggy Riches! Simply deposit a min of £10, between 5th Aug and the 11th August, play for a minimum of £10 on Jungle Games and you will receive 5 Free Spins on Piggy Riches. Oinkastic!</text>
+		<text type="playnow" url="/~subfolder~/casino" />
+		<text type="title">Gold Mine $$$</text>
+		<text type="normal">Opening times: 08:00-01.00.  Welcome to sparkling Gold Mine, where we have guarantee winnings all day, every day! Look out for some of the special promotions like; Buy 1, Get 1 Free and huge Jackpot Games! Open from 08.00-01.00 everyday, it’s not so hard to strike GOLD in the Gold Mine!</text>
+		<text type="playnow" url="/~subfolder~/bingo" />
+		<text type="title">Lions & Tigers & Giraffes – Oh My! $$$</text>
+		<text type="normal">5th August - 11th August
+It’s all about African wildlife this week! Join us for this week’s African Casino Tournament; to participate all you need to do is play on our crazy wildlife Olympic slot, Jungle Games, the classic slot Safari madness and not to forget our rich African piggy in Piggy Riches!</text>
+		<text type="playnow" url="/~subfolder~/casino/tournaments?id=1301" />
+		<text type="title">Explore the African plains today!</text>
+	</week>
+</summerpromo>
